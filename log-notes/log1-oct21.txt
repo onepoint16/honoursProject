@@ -1,0 +1,10 @@
+Downloaded dataset from berkley deep drive
+
+1.8tb of videos and 5gb of labels
+
+Planned to utilise exisiting covnet to identify people within footage
+
+From that looking into YoloV3 - V5 to predict pedestrian movement will be the next step
+
+Failing that investigating other single shot detectors and image/video prediciton with tracking will be Downloaded
+

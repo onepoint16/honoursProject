@@ -1,0 +1,47 @@
+23rd
+
+from reading the modelzoo page which has models built for the bdd100k datatset the most appropriate model seems to be the multiple object detections and tracking
+
+________________________
+24th
+
+Have been following the modelzoo 100k  models to try and develop first neural net
+
+information indicates videos but then uses a different image dataset which should be  subset of the videos
+
+Having difficulty viewing the files and lables ontop 
+
+_______________________
+
+25th
+
+Started to follow QDTrack within modelzoo at https://github.com/SysCV/qdtrack/blob/master/docs/GET_STARTED.md
+
+Had trouble converting labels from bdd100k into coco format as required to run model
+
+Within qdtrack conda env the to_coco.py file required changes in order to match the key name pairs within the label jsons
+    - discovered this from the issues page on https://github.com/SysCV/qdtrack/issues and https://github.com/bdd100k/bdd100k/issues/152
+
+______________________________
+
+26th 
+
+Start by continuing QDTrack set up 
+    - Aim is to have a root neural net identifying objects mainly pedestrians
+
+Managed to get mmcv version to be correct
+
+Running into issues https://github.com/pyg-team/pytorch_geometric/issues/999
+
+potantial solution is to uninstall pytorch as it was installed via conda which install cpu and gpu usage
+
+will attempt to uninstall and direct download install pytorch 
+
+__________________________________--
+
+27th
+
+Start by uninstalling pytorch via conda and installing direct from pytorch github to ensure gpu is being used
+
+Link: https://github.com/pytorch/pytorch#get-the-pytorch-source
+
