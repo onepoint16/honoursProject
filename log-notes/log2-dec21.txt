@@ -1,0 +1,8 @@
+Started planning approqach to build first neural net
+
+Aim is to use data and labels with existing neural net
+
+Model zoo 100k offers options for different types of detection
+
+Will attempt to use resnet 50 for multiple object detection 
+

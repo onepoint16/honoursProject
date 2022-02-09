@@ -1,0 +1,20 @@
+Feb 1st - 7th 
+
+Write off due to home changes
+
+_____________________________________________________________________
+
+7th February 2022
+
+Will start today beginning the replication of this github repo:
+
+https://github.com/onepoint16/Object-detection-and-segmentation-for-self-driving-cars
+
+Main aims
+
+- See if model can be set up and ran to identify objects (pedestrians)
+
+- If not contact mark for advice
+
+- Try and look at other mdoel options
+
