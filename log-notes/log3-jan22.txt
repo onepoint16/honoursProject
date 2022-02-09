@@ -45,3 +45,13 @@ Start by uninstalling pytorch via conda and installing direct from pytorch githu
 
 Link: https://github.com/pytorch/pytorch#get-the-pytorch-source
 
+
+___________________________________________
+
+31st
+
+Spoke with mark and decided to try another exisitng model 
+
+Github: https://github.com/onepoint16/Object-detection-and-segmentation-for-self-driving-cars
+
+I will begin this in February
