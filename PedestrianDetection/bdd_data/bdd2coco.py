@@ -8,12 +8,12 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='BDD100K to COCO format')
     parser.add_argument(
           "-l", "--label_dir",
-          default="/home/dtilak/bdd100k/labels/",
+          default="/run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/det_20/",
           help="root directory of BDD label Json files",
     )
     parser.add_argument(
           "-s", "--save_path",
-          default="/home/dtilak/bdd_to_coco_converted_labels/",
+          default="/run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/",
           help="path to save coco formatted label file",
     )
     return parser.parse_args()
@@ -34,7 +34,7 @@ def bdd2coco_detection(id_dict, labeled_images, fn):
         image['id'] = counter
 
         empty_image = True
-        for l in i['labels']:
+        for l in i["labels"]:
             annotation = dict()
             if l['category'] in id_dict.keys():
                 if(l['category'] == "drivable area"):
@@ -94,7 +94,7 @@ if __name__ == '__main__':
     print(attr_id_dict)
     #create BDD training set detections in COCO format
     print('Loading training set...')
-    with open(os.path.join(args.label_dir, 'bdd100k_labels_images_train.json')) as f:
+    with open(os.path.join(args.label_dir, 'det_train.json')) as f:
         train_labels = json.load(f)
     print('Converting training set...')
 
@@ -104,7 +104,7 @@ if __name__ == '__main__':
     print('Loading validation set...')
     #create BDD validation set detections in COCO format
     with open(os.path.join(args.label_dir,
-                           'bdd100k_labels_images_val.json')) as f:
+                           'det_val.json')) as f:
         val_labels = json.load(f)
     print('Converting validation set...')
 
