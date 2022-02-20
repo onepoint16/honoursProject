@@ -129,6 +129,4 @@ dmypy.json
 .pyre/
 
 # Files to ignore
-/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5
-/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco.h5
-
+*.h5
