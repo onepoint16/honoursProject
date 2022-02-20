@@ -32,7 +32,7 @@ COCO_MODEL_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco_0005.h5")
 
 # Directory to save logs and model checkpoints, if not provided
 # through the command line argument --logs
-DEFAULT_LOGS_DIR = "/home/sam/Desktop/SamHons_ObjectDetection_Repo/object_detection/training_log_rgb"
+DEFAULT_LOGS_DIR = "/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb"
 DEFAULT_DATA_PATH = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/images/100k/"
 DEFAULT_MODEL_DIR= "/home/sam/Desktop/SamHons_ObjectDetection_Repo/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5"
 
@@ -320,11 +320,11 @@ if __name__ == '__main__':
                         help='Directory of the BDD dataset')
     parser.add_argument('--model', required=False,
                         default=DEFAULT_MODEL_DIR,
-                        metavar="/home/sam/Desktop/SamHons_ObjectDetection_Repo/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5",
+                        metavar="/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5",
                         help="Path to weights .h5 file")
     parser.add_argument('--logs', required=False,
                         default=DEFAULT_LOGS_DIR,
-                        metavar="/home/sam/Desktop/SamHons_ObjectDetection_Repo/object_detection/training_log_rchannel",
+                        metavar="/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rchannel",
                         help='Logs and checkpoints directory (default=logs/)')
     parser.add_argument('--limit', required=False,
                         default=500,
