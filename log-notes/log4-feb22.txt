@@ -18,3 +18,54 @@ Main aims
 
 - Try and look at other mdoel options
 
+__________________________________________________________-
+
+9th of February 2022
+
+Continuing with work started on the 7th
+
+From repo above now that conda env is condigured
+
+- demo.py wil ran to verify functionality
+
+- investigation into the creation of the model will be done
+
+- code will be referenced and produced in my own repo for the project
+
+
+__________________________________________________________
+
+10th -13th
+
+Started to trouble shoot and change aspects of the mdoels code.
+
+had to download coco dataset and labels to train model
+
+have reached a point where the weights and layers are ahving to be edited in order to run on the data set.
+
+__________________________________________________________
+
+14th 
+
+Spoke to mark
+
+confirmed where i am at and what i am stuck with 
+
+Got pointers on how to continue and what to aim for once this stage is complete
+
+______________________-
+
+15th 
+
+have 2 of 4 notebooks working with mrcnn model
+
+inspect weights and inspect data work 
+
+inspect model has issues loading masks and hits errors when recalling its precision
+
+precision curve is flat when it should be 2 rigid lines connecting from value 1
+
+demo.py is having issues with layers and weights as not all 80 within coco are being used. 
+
+Having to figure out how best to solve this
+
