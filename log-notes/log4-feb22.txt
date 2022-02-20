@@ -99,3 +99,11 @@ will attempth to continue rebuild today
 
 will also look at alternatives incaase this does not work 
 
+Was attempting to use coco labels I had converted via bdd repo 
+when there is a script written by DTilaks code. 
+I have realised that they way they have created labels seems 
+to be key to the weights and layers working. During convertions 
+getting key error 'labels' looking in det_2-.json and labels seems 
+to be correct but will look ino this more
+
+
