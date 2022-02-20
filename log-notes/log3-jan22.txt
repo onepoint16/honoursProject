@@ -11,6 +11,44 @@ information indicates videos but then uses a different image dataset which shoul
 
 Having difficulty viewing the files and lables ontop 
 
+converted lables
+
+Converting box track labels 
+location of labels: /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/box_track_20/ {Train / Val}
+output to go here: /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons
+Conda env: bdd100k
+Must be in Bdd100k directory with bdd100k.label.to.coco file
+
+Train:
+
+python -m bdd100k.label.to_coco -m box_track \
+    -i /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/box_track_20/train \
+    -o /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/box_track_train_cocofmt.json
+
+Val:
+
+python -m bdd100k.label.to_coco -m box_track \
+    -i /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/box_track_20/val \
+    -o /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/box_track_val_cocofmt.json
+
+Converting detection labels
+location of labels: /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/det_20/ {Train / Val}
+output to go here: /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons
+Conda env: bdd100k
+Must be in Bdd100k directory with bdd100k.label.to.coco file
+
+Train:
+
+python -m bdd100k.label.to_coco -m det \
+    -i /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/det_20/det_train.json \
+    -o /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/det_train_cocofmt.json
+
+Val:
+
+python -m bdd100k.label.to_coco -m det \
+    -i /run/media/sam/Dataset/bdd100k-models/data/bdd100k/labels/det_20/det_val.json \
+    -o /run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/det_val_cocofmt.json
+
 _______________________
 
 25th

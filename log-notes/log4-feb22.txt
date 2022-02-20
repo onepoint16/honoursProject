@@ -69,3 +69,33 @@ demo.py is having issues with layers and weights as not all 80 within coco are b
 
 Having to figure out how best to solve this
 
+__________________________________________________________
+
+16th
+
+Got all notebooks working but model glitches images and labels
+
+______________________________________________________-
+
+17th
+
+I believe something has gone wrong with the weights and now the model will not function correctly
+
+______________________________________________________
+
+18th
+
+Started with fresh clone of dtaliks object detection using mrcnn 
+
+getting it working following steps used before but being careful of breaking the model
+
+_____________________________________________--
+
+20th
+
+will speak to Mark tomorrow abour model glitching
+
+will attempth to continue rebuild today
+
+will also look at alternatives incaase this does not work 
+
