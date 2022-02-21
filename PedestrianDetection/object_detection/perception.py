@@ -34,7 +34,7 @@ COCO_MODEL_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco_0005.h5")
 # through the command line argument --logs
 DEFAULT_LOGS_DIR = "/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb"
 DEFAULT_DATA_PATH = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/images/100k/"
-DEFAULT_MODEL_DIR= "/home/sam/Desktop/SamHons_ObjectDetection_Repo/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5"
+DEFAULT_MODEL_DIR= "/home/sam/Documents/GitHub/honoursProject/PedestrianDetection/object_detection/training_log_rgb/coco20190811T1837/mask_rcnn_coco_0005.h5"
 
 
 ############################################################
@@ -82,9 +82,9 @@ class CocoDataset(utils.Dataset):
             self.auto_download(dataset_dir, subset)
             
         if (subset == "train"):
-            img_label = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/det_train_cocofmt.json"
+            img_label = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/bdd100k_labels_images_det_coco_train.json"
         else:
-            img_label = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/det_val_cocofmt.json"
+            img_label = "/run/media/sam/Dataset/bdd100k-models/data/bdd100k/jsons/bdd100k_labels_images_det_coco_val.json"
             
         coco = COCO(img_label)#bdd100k_labels_images_det_coco_train.json")
         #("{}/annotations/instances_{}{}.json".format(dataset_dir, subset, year))

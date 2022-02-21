@@ -129,3 +129,15 @@ Some lables where missing the section "labels" due to the frame being empty of o
 After running the script a good few times I was able to add the missing label section as "label" : []
 
 I also changed name of label person to pedestrian and motor to motorcycle
+
+fixed this when loading model weights: https://stackoverflow.com/questions/63481175/keras-shape-of-layer-weights-does-not-match-saved-weight-shape
+
+You can exclude these layers, instead of:
+
+model.load_weights(CUSTOM_MODEL_PATH, by_name=True)
+
+use:
+
+model.load_weights(
+    COCO_MODEL_PATH, by_name=True,
+    exclude=["mrcnn_class_logits", "mrcnn_bbox_fc", "mrcnn_bbox", "mrcnn_mask", "rpn_model"])
