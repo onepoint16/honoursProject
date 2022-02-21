@@ -34,6 +34,7 @@ def bdd2coco_detection(id_dict, labeled_images, fn):
         image['id'] = counter
 
         empty_image = True
+        
         for l in i["labels"]:
             annotation = dict()
             if l['category'] in id_dict.keys():

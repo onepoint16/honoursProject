@@ -106,4 +106,17 @@ to be key to the weights and layers working. During convertions
 getting key error 'labels' looking in det_2-.json and labels seems 
 to be correct but will look ino this more
 
+____________________________________________
 
+21st
+
+Spoke to Mark 
+
+Went over my beliefe in the issue with DTilaks model
+HE agrees troubleshooting could resolve this and allow current plans to continue
+
+and alternative model was also suggested: https://github.com/TannerGilbert/MaskRCNN-Object-Detection-and-Segmentation
+
+Plan for today is to troubleshoot bdd2coo.py file to see if converting the labels is possible.
+
+After 2.5 hours looking at alternative will begin
