@@ -113,6 +113,7 @@ ____________________________________________
 Spoke to Mark 
 
 Went over my beliefe in the issue with DTilaks model
+
 HE agrees troubleshooting could resolve this and allow current plans to continue
 
 and alternative model was also suggested: https://github.com/TannerGilbert/MaskRCNN-Object-Detection-and-Segmentation
@@ -120,3 +121,11 @@ and alternative model was also suggested: https://github.com/TannerGilbert/MaskR
 Plan for today is to troubleshoot bdd2coo.py file to see if converting the labels is possible.
 
 After 2.5 hours looking at alternative will begin
+
+ran print statment to find out what the label was it was trying to convert
+
+Some lables where missing the section "labels" due to the frame being empty of object
+
+After running the script a good few times I was able to add the missing label section as "label" : []
+
+I also changed name of label person to pedestrian and motor to motorcycle

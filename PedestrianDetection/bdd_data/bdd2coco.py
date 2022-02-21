@@ -35,6 +35,8 @@ def bdd2coco_detection(id_dict, labeled_images, fn):
 
         empty_image = True
         
+        print(i)
+        
         for l in i["labels"]:
             annotation = dict()
             if l['category'] in id_dict.keys():
@@ -78,13 +80,13 @@ if __name__ == '__main__':
 
     attr_dict = dict()
     attr_dict["categories"] = [
-        {"supercategory": "none", "id": 1, "name": "person"},
+        {"supercategory": "none", "id": 1, "name": "pedestrian"},
         {"supercategory": "none", "id": 2, "name": "rider"},
         {"supercategory": "none", "id": 3, "name": "car"},
         {"supercategory": "none", "id": 4, "name": "bus"},
         {"supercategory": "none", "id": 5, "name": "truck"},
         {"supercategory": "none", "id": 6, "name": "bike"},
-        {"supercategory": "none", "id": 7, "name": "motor"},
+        {"supercategory": "none", "id": 7, "name": "motorcycle"},
         {"supercategory": "none", "id": 8, "name": "traffic light"},
         {"supercategory": "none", "id": 9, "name": "traffic sign"},
         {"supercategory": "none", "id": 10, "name": "train"},
