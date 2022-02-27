@@ -141,3 +141,12 @@ use:
 model.load_weights(
     COCO_MODEL_PATH, by_name=True,
     exclude=["mrcnn_class_logits", "mrcnn_bbox_fc", "mrcnn_bbox", "mrcnn_mask", "rpn_model"])
+
+____________________________________________________________-
+
+27th
+
+As model still glitched after solutions I will not just used Mars RCNN as a model and build a script to detect people from the BDD images
+
+https://github.com/onepoint16/MaskRCNN-Object-Detection-and-Segmentation
+
