@@ -18,6 +18,8 @@ from mrcnn import visualize
 from mrcnn.model import log
 from samples.coco import coco
 
+video_file_path = ''
+
 
 def apply_mask(image, mask, color, alpha=0.5):
     """apply mask to image"""
@@ -55,13 +57,15 @@ def display_instances(image, boxes, masks, class_ids, class_names, scores=None):
         image = cv2.putText(image, caption, (x1, y1), cv2.FONT_HERSHEY_COMPLEX, 0.7, c, 2)
     return image
 
+def set_video_file_path(file_path):
+    video_file_path = file_path
+    return video_file_path
 
 class InferenceConfig(coco.CocoConfig):
     # Set batch size to 1 since we'll be running inference on
     # one image at a time. Batch size = GPU_COUNT * IMAGES_PER_GPU
     GPU_COUNT = 1
     IMAGES_PER_GPU = 1
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='MaskRCNN Video Object Detection/Instance Segmentation')
@@ -105,6 +109,8 @@ if __name__ == '__main__':
 
     if args.video_path != '':
         cap = cv2.VideoCapture(args.video_path)
+    elif video_file_path != '':
+        cap = cv2.VideoCapture(video_file_path)
     else:
         cap = cv2.VideoCapture(0)
 

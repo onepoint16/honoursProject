@@ -18,7 +18,7 @@ Main aims
 
 - Try and look at other mdoel options
 
-__________________________________________________________-
+_________________________________________________________________
 
 9th of February 2022
 
@@ -33,7 +33,7 @@ From repo above now that conda env is condigured
 - code will be referenced and produced in my own repo for the project
 
 
-__________________________________________________________
+_____________________________________________________________________
 
 10th -13th
 
@@ -53,7 +53,7 @@ confirmed where i am at and what i am stuck with
 
 Got pointers on how to continue and what to aim for once this stage is complete
 
-______________________-
+_____________________________________________________________
 
 15th 
 
@@ -75,7 +75,7 @@ __________________________________________________________
 
 Got all notebooks working but model glitches images and labels
 
-______________________________________________________-
+______________________________________________________
 
 17th
 
@@ -89,7 +89,7 @@ Started with fresh clone of dtaliks object detection using mrcnn
 
 getting it working following steps used before but being careful of breaking the model
 
-_____________________________________________--
+_____________________________________________
 
 20th
 
@@ -142,7 +142,7 @@ model.load_weights(
     COCO_MODEL_PATH, by_name=True,
     exclude=["mrcnn_class_logits", "mrcnn_bbox_fc", "mrcnn_bbox", "mrcnn_mask", "rpn_model"])
 
-____________________________________________________________-
+____________________________________________________________
 
 27th
 
@@ -165,6 +165,8 @@ I will now create a small subset of videos from BDD100K data so I can use these 
 Video selected can be ran through video_detection.py and have very good results.
 
 I am now adding the detection part to a pedestrian detection notebooks
+
+Will have to take part of video detection file and make a notebook from it. I will also keep the route script but edit to read videos from folder
 
 ______________________________________________________________________
 

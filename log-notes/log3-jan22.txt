@@ -75,7 +75,7 @@ potantial solution is to uninstall pytorch as it was installed via conda which i
 
 will attempt to uninstall and direct download install pytorch 
 
-__________________________________--
+_________________________________________________________
 
 27th
 
@@ -84,7 +84,7 @@ Start by uninstalling pytorch via conda and installing direct from pytorch githu
 Link: https://github.com/pytorch/pytorch#get-the-pytorch-source
 
 
-___________________________________________
+__________________________________________________________
 
 31st
 
