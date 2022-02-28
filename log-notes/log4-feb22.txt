@@ -150,3 +150,15 @@ As model still glitched after solutions I will not just used Mars RCNN as a mode
 
 https://github.com/onepoint16/MaskRCNN-Object-Detection-and-Segmentation
 
+Have got mrcnn in folder and configured
+
+Will edit the video_detection.py script to work with slected videos
+
+______________________________________________________________________
+
+28th 
+
+video_detection.py script works. it can open the camera and detect me as a person in my room
+
+I will now create a small subset of videos from BDD100K data so I can use these as a detect people or not
+
