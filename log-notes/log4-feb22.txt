@@ -162,3 +162,9 @@ video_detection.py script works. it can open the camera and detect me as a perso
 
 I will now create a small subset of videos from BDD100K data so I can use these as a detect people or not
 
+Video selected can be ran through video_detection.py and have very good results.
+
+I am now adding the detection part to a pedestrian detection notebooks
+
+______________________________________________________________________
+
