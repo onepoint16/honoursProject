@@ -1,0 +1,6 @@
+3rd
+
+Going to create pedestrian detection notebook
+
+Will look to alter so it used DTilaks Perception file as its related to BDD directly
+

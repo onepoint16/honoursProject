@@ -18,9 +18,6 @@ from mrcnn import visualize
 from mrcnn.model import log
 from samples.coco import coco
 
-video_file_path = ''
-
-
 def apply_mask(image, mask, color, alpha=0.5):
     """apply mask to image"""
     for n, c in enumerate(color):
@@ -56,10 +53,6 @@ def display_instances(image, boxes, masks, class_ids, class_names, scores=None):
         image = cv2.rectangle(image, (x1, y1), (x2, y2), c, 2)
         image = cv2.putText(image, caption, (x1, y1), cv2.FONT_HERSHEY_COMPLEX, 0.7, c, 2)
     return image
-
-def set_video_file_path(file_path):
-    video_file_path = file_path
-    return video_file_path
 
 class InferenceConfig(coco.CocoConfig):
     # Set batch size to 1 since we'll be running inference on
@@ -109,8 +102,6 @@ if __name__ == '__main__':
 
     if args.video_path != '':
         cap = cv2.VideoCapture(args.video_path)
-    elif video_file_path != '':
-        cap = cv2.VideoCapture(video_file_path)
     else:
         cap = cv2.VideoCapture(0)
 
