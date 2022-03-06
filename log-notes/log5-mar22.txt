@@ -4,3 +4,15 @@ Going to create pedestrian detection notebook
 
 Will look to alter so it used DTilaks Perception file as its related to BDD directly
 
+_________________________
+
+6th
+
+Still cant get CV to loop through folder of videos but it works well when passed the video path
+
+Moving on to configuring toi work with perception.py from Dtalik and the BSS labels
+
+Will then look to select individual frames of a video with a pedestrian walking and look too identify and log coordinates
+
+
+
