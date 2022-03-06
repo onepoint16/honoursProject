@@ -9,7 +9,7 @@ Written by Waleed Abdulla
 ------------------------------------------------------------
 
 Usage: import the module (see Jupyter notebooks for examples), or run from
-       the command line as such:
+    the command line as such:
 
     # Train a new model starting from pre-trained COCO weights
     python3 coco.py train --dataset=/path/to/coco/ --model=coco
@@ -93,7 +93,7 @@ class CocoConfig(Config):
 
 class CocoDataset(utils.Dataset):
     def load_coco(self, dataset_dir, subset, year=DEFAULT_DATASET_YEAR, class_ids=None,
-                  class_map=None, return_coco=False, auto_download=False):
+                class_map=None, return_coco=False, auto_download=False):
         """Load a subset of the COCO dataset.
         dataset_dir: The root directory of the COCO dataset.
         subset: What to load (train, val, minival, valminusminival)
@@ -244,7 +244,7 @@ class CocoDataset(utils.Dataset):
                 "coco.{}".format(annotation['category_id']))
             if class_id:
                 m = self.annToMask(annotation, image_info["height"],
-                                   image_info["width"])
+                                image_info["width"])
                 # Some objects are so small that they're less than 1 pixel area
                 # and end up rounded out. Skip those objects.
                 if m.max() < 1:
@@ -371,9 +371,9 @@ def evaluate_coco(model, dataset, coco, eval_type="bbox", limit=0, image_ids=Non
         # Convert results to COCO format
         # Cast masks to uint8 because COCO tools errors out on bool
         image_results = build_coco_results(dataset, coco_image_ids[i:i + 1],
-                                           r["rois"], r["class_ids"],
-                                           r["scores"],
-                                           r["masks"].astype(np.uint8))
+                                        r["rois"], r["class_ids"],
+                                        r["scores"],
+                                        r["masks"].astype(np.uint8))
         results.extend(image_results)
 
     # Load results. This modifies results with additional attributes.
@@ -452,10 +452,10 @@ if __name__ == '__main__':
     # Create model
     if args.command == "train":
         model = modellib.MaskRCNN(mode="training", config=config,
-                                  model_dir=args.logs)
+                                model_dir=args.logs)
     else:
         model = modellib.MaskRCNN(mode="inference", config=config,
-                                  model_dir=args.logs)
+                                model_dir=args.logs)
 
     # Select weights file to load
     if args.model.lower() == "coco":
@@ -531,4 +531,4 @@ if __name__ == '__main__':
         evaluate_coco(model, dataset_val, coco, "bbox", limit=int(args.limit))
     else:
         print("'{}' is not recognized. "
-              "Use 'train' or 'evaluate'".format(args.command))
+            "Use 'train' or 'evaluate'".format(args.command))

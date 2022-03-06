@@ -16,7 +16,7 @@ from mrcnn import utils
 import mrcnn.model as modellib
 from mrcnn import visualize
 from mrcnn.model import log
-from samples.coco import coco
+import coco
 
 def apply_mask(image, mask, color, alpha=0.5):
     """apply mask to image"""
