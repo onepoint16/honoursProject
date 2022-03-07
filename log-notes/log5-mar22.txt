@@ -15,4 +15,10 @@ Moving on to configuring toi work with perception.py from Dtalik and the BSS lab
 Will then look to select individual frames of a video with a pedestrian walking and look too identify and log coordinates
 
 
+__________________________________________________
+
+7th
+
+Writing script to break video into frames and save to a location
+
 
