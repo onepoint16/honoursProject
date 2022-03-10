@@ -21,4 +21,27 @@ __________________________________________________
 
 Writing script to break video into frames and save to a location
 
+______________________________________________________________
 
+8th 
+
+Trying to feed each frame into model to view and log output of bounding boxes.
+
+
+______________________________________________________________
+
+10th
+
+Still cant get opon cv to read frames seperatley and run model 
+
+meeting with mark where I will bring this up
+
+Have found image processing DTilaks work so will reference 
+
+https://github.com/TilakD/Object-detection-and-segmentation-for-self-driving-cars/blob/master/object_detection/inspect_model.ipynb
+
+https://github.com/TilakD/Object-detection-and-segmentation-for-self-driving-cars/blob/master/object_detection/Demo.ipynb
+
+to find a solution to reading images and procesing the bounding boxes
+
+________________________________________________________________
