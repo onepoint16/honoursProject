@@ -86,3 +86,10 @@ ______________________________________________________________
 
 - Remove unecessary labels (if possible)
 
+using this stack overlfow to try and reduce classes and class id's
+https://stackoverflow.com/questions/65810714/mask-rcnn-1-class-only
+
+Error seems to be hit which I think is versioning but will investigate further tomorrow
+
+
+__________________________________________________________________-
