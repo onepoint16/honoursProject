@@ -45,3 +45,44 @@ https://github.com/TilakD/Object-detection-and-segmentation-for-self-driving-car
 to find a solution to reading images and procesing the bounding boxes
 
 ________________________________________________________________
+
+
+11th
+
+Got frames reading speratley and in order
+
+Object detection considers each frame new so no tracking is applied
+
+Will look into this
+
+________________________________________________________________
+
+14th
+
+Spoke to Mark and he states creating a tracking program to track multiple object through busy frames is above this stage in education
+
+Aims are to remove all labels bar pedestrians
+
+2 frames at a time log pedestrians and coordinates 
+
+    Most of the time a pedestrian will be the same in the next frame if the coordinate has moved fractionally
+
+    This would not be the case when a large group of people are walking enar each other
+
+Create dataset from pedestrian movement
+
+logging coordinates and pedestrian
+
+do distance calculation between points 1 and 2
+
+Then look to get agorithm that can predicts 6-10 frames into the future
+
+**For discussion 
+    state final programe would need to track targets independantly but until a real system is being implemented this is not possible
+
+______________________________________________________________
+
+15th
+
+- Remove unecessary labels (if possible)
+
