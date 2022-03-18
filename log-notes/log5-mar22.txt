@@ -92,4 +92,15 @@ https://stackoverflow.com/questions/65810714/mask-rcnn-1-class-only
 Error seems to be hit which I think is versioning but will investigate further tomorrow
 
 
-__________________________________________________________________-
+__________________________________________________________________
+
+18th
+
+Removing all labels classes bar person and retrianing model continues
+
+had to update model from this repo: https://github.com/leekunhee/Mask_RCNN
+
+running training and its taking forever to get by 1 epoch currentl 25 mins
+
+asked mark if anyway to speed this up or approach the training differently
+
