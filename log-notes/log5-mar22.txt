@@ -109,7 +109,7 @@ Ran trianing for over 2 hours and still no movement from epoch 1.
 Looked up to see if any solutions but none so far. Will continue this on next session
 
 
-_____________________________________________________-
+_____________________________________________________
 
 19th
 
@@ -138,11 +138,21 @@ added print line to find out how many workers were being used
 I have set this to 1 to see if anything changes 
 
 
-_________________________________________-
+________________________________________________
 
 20th 
 
 After speaking to Mark I will no longer try to retrain the model 
 
 I will look to extract the results data and log pedestraiand and their x1 y2 coordinates
+
+plan for tomorrow:
+
+    reduce to just 1 frame till you can isolate the info you need
+    look to identify rois and object label
+    Store only pedestrian data
+    run frame 2 and try to identify the same people from very slight movements
+    build script to do this for video 2 frames at a time and build dataset
+
+_____________________________________________________________
 
