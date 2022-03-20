@@ -104,3 +104,45 @@ running training and its taking forever to get by 1 epoch currentl 25 mins
 
 asked mark if anyway to speed this up or approach the training differently
 
+Ran trianing for over 2 hours and still no movement from epoch 1. 
+
+Looked up to see if any solutions but none so far. Will continue this on next session
+
+
+_____________________________________________________-
+
+19th
+
+Ran model overnight and no progress from epoch 1 after 700 mins
+
+spoke to Tony and he has suggested adding in a set workers number and verbose= 1 to see progress
+
+in model.py around lin 2364, workers=8 instead of workers=workers was added. verbose 1 was added and multiprocessing set to True instead of = workers > 1
+
+commented out the if statements to check if system is running on windows
+
+now looking to add a model.summary to see if it hangs before trianing starts
+
+added print line in model aroun 2364 and stats show 
+
+Total params: 65,828,510
+Trainable params: 21,069,086
+Non-trainable params: 44,759,424
+
+
+Changed model lines back to original
+
+added print line to find out how many workers were being used
+16 if not set
+
+I have set this to 1 to see if anything changes 
+
+
+_________________________________________-
+
+20th 
+
+After speaking to Mark I will no longer try to retrain the model 
+
+I will look to extract the results data and log pedestraiand and their x1 y2 coordinates
+
