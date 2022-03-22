@@ -180,3 +180,30 @@ once create will remove everything bar person class
 look to log people to identify in next frame
 
 Once one can be done will look to have a frame dictionay holding the frame data dictionaries
+
+__________________________________________________________________
+
+22nd
+
+Following on from yesterday I will try and create a dictionary of objects within frame and there locations
+
+Once done I will remove all bar person data
+
+I will complete this for frame 2 and look to see if probability can determin 
+if a person is the same as the frame before due to minimal movement
+
+if this can be done then I will write a script to perform this for a whole video
+Then aim to write a script to extract from 2 videos into the same collection
+
+Managed to get info adding to dictionary on a per object basis
+Removed all objects bar person and logged the number ie person 1 person 2
+Trying to get each coordinate out of the rois array to compare but cant do this yesterday
+
+Tomorrow:
+
+Get each coordinate out for each person ROIS in frame 1 and 2
+Write script to compare and link the same person via similar coordinates
+Any new coordinates will be taken as a new person
+Get infor for frames logged in the fashion of 
+frame 1 Person 1 position
+frame 2 person 1 position
