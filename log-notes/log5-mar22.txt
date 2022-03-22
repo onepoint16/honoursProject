@@ -156,3 +156,27 @@ plan for tomorrow:
 
 _____________________________________________________________
 
+21st
+
+Message from Mark confirms the plan is best route forward
+
+No need to retrain and instead will get data extracted from results
+
+plan for today:
+
+    reduce to just 1 frame till you can isolate the info you need
+    look to identify rois and object label
+    Store only pedestrian data
+    run frame 2 and try to identify the same people from very slight movements
+    build script to do this for video 2 frames at a time and build dataset
+
+
+Got 1 frame reading
+Managed to extract data for each object in frame
+looking to create a dictionary with this data
+
+once create will remove everything bar person class
+
+look to log people to identify in next frame
+
+Once one can be done will look to have a frame dictionay holding the frame data dictionaries
