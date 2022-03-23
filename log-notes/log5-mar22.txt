@@ -207,3 +207,34 @@ Any new coordinates will be taken as a new person
 Get infor for frames logged in the fashion of 
 frame 1 Person 1 position
 frame 2 person 1 position
+
+___________________________________________________________________-
+
+23rd
+
+Continuing on from yesterday I will be trying to extract the elements within ROIS array
+
+Completed today:
+
+Got ROIS coordinates extracting seperatley and being added to object dictionary for person
+Created script for breaking video into frames so code does not repeat
+Selected better videos to take data from
+
+Tomorrow:
+
+Create loop of 2 frames
+    Create loop of objects i frame
+        add person to objects collection
+    add object to frames collection
+
+potentially count people in frame and total across all frames. ie 1 person across 2 frames should equal 2 people only
+
+Should have frames dictonary containing 2 frames and each frame should have a person object in it
+
+Once this is done will work on calculation and person labelling
+
+Then will build script to run for full video
+
+If possible will do the same for the 4 videos
+
+
