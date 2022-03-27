@@ -238,3 +238,45 @@ Then will build script to run for full video
 If possible will do the same for the 4 videos
 
 
+_____________________________________________________________________
+
+25th 
+
+After speaking with Mark he suggets taking coordinates x1 y1 for person in each frame and see how the scale moves 
+
+Today will create loop of frames with loop of objects in them and join both together in a frames dictionary
+
+Completed:
+
+Loops will go through each frame and create a dictionary of pedestrian objects with ROIS within a dictionary of frames in a video
+
+Found this: https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+
+which implements the exact tracking needed and this will be completed tomorrow
+
+Once this works building the data set from the video will be possible
+
+Then other videos will be taken and added to dataset
+
+Mark suggestes using this to perform the prediciton on future coordinates https://pypi.org/project/memspectrum/
+
+Will message him if I get stuck
+
+_______________________________________________________________________
+
+27th
+
+Worked on implementing centroid tracker which is functional
+
+I cannot get the tracker to register ids on centroids to try and track
+
+I have messaged mark and will continue to investigate this tomorrow
+
+For tomorrow 
+
+Get centroid registering ids and returing 12 centroids id'd from 0-2 as its the same 3 people 
+
+once done building data set will be possible
+
+___________________________________________________________________
+
