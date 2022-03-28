@@ -280,3 +280,25 @@ once done building data set will be possible
 
 ___________________________________________________________________
 
+28th
+
+To Do:
+
+Get centroid tracker to log each person and give back centroids with id tag
+
+Blocked:
+
+Still unable to progress tracking
+
+Will use a working project to decern how the should be passed so i can pass the info for the video
+
+What to do:
+
+Once info can be tracked a data set can be built from video
+
+Consider increaisng data with other videos
+
+Look into buidling prediction model/algo to make future positon prediction
+
+Marks suggestion: https://pypi.org/project/memspectrum/
+
