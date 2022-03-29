@@ -4,8 +4,8 @@ import sys
 import numpy as np
 import os.path
 import math
-from scripts.centroid_tracker import CentroidTracker
 from scripts.trackable_object import TrackableObject
+from scripts.centroid_tracker import CentroidTracker
 
 # Initialize the parameters
 confThreshold = 0.6  #Confidence threshold
@@ -221,6 +221,8 @@ while cv.waitKey(1) < 0:
 
     # Runs the forward pass to get output of the output layers
     outs = net.forward(getOutputsNames(net))
+    
+    print(str(outs))
 
     # Remove the bounding boxes with low confidence
     postprocess(frame, outs)

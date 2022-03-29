@@ -302,3 +302,18 @@ Look into buidling prediction model/algo to make future positon prediction
 
 Marks suggestion: https://pypi.org/project/memspectrum/
 
+
+______________________________________________________________-
+
+29th 
+
+To do:
+
+Get centroid tracker to log each person and give centroids back with id
+
+Approach:
+
+Will go through centroid driver file and will see how other porjects have passed data into tracker
+
+
+
