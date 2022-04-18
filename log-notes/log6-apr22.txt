@@ -1,0 +1,19 @@
+1- 10th
+
+Focused on logging data from a selected video and bulding a set for ML predicitons
+
+Cleaning dataset and making sure a range of frame distances is avaliale
+
+collected output data to measure success
+
+Collected images for output evidence
+
+_____________________________
+
+10 - 18th
+
+Ran memspectrum to evaluate the optimum number of frames
+
+Ran simulation tests to find the optimum amount of simulations
+
+Creating final tables for evaluation

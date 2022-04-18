@@ -315,5 +315,10 @@ Approach:
 
 Will go through centroid driver file and will see how other porjects have passed data into tracker
 
+_____________________________
+
+End of March
+
+Couldnt get centroid tracker to work and have agreed with Mark manually logging movement will be the best route for building the dataset
 
 
