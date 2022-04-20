@@ -1,0 +1,1393 @@
+Sim: 10
+person: 0
+{'Real X': 700, 'Predicted X': 704.7836827689013, 'Sum Squared Error X': 22.883620833482805, 'Real Y': 1076, 'Predicted Y': 1066.3441759686848, 'Sum Squared Error Y': 93.23493772372423}
+person: 1
+{'Real X': 734, 'Predicted X': 737.533153376691, 'Sum Squared Error X': 12.483172783222743, 'Real Y': 1184, 'Predicted Y': 1189.9477565799366, 'Sum Squared Error Y': 35.37580833417906}
+person: 2
+{'Real X': 733, 'Predicted X': 728.2787320028037, 'Sum Squared Error X': 22.290371501349625, 'Real Y': 1234, 'Predicted Y': 1242.9040721072042, 'Sum Squared Error Y': 79.28250009029236}
+Sim: 20
+person: 0
+{'Real X': 700, 'Predicted X': 695.6859493203146, 'Sum Squared Error X': 18.611033266893642, 'Real Y': 1076, 'Predicted Y': 1067.4300252126784, 'Sum Squared Error Y': 73.44446785532787}
+person: 1
+{'Real X': 734, 'Predicted X': 741.1378139789884, 'Sum Squared Error X': 50.94838839864289, 'Real Y': 1184, 'Predicted Y': 1193.133660571555, 'Sum Squared Error Y': 83.42375543637993}
+person: 2
+{'Real X': 733, 'Predicted X': 732.501450768806, 'Sum Squared Error X': 0.24855133592416176, 'Real Y': 1234, 'Predicted Y': 1246.7217340637817, 'Sum Squared Error Y': 161.84251758958354}
+Sim: 30
+person: 0
+{'Real X': 700, 'Predicted X': 698.3607974713968, 'Sum Squared Error X': 2.6869849297790065, 'Real Y': 1076, 'Predicted Y': 1062.8738413221815, 'Sum Squared Error Y': 172.29604163526903}
+person: 1
+{'Real X': 734, 'Predicted X': 732.8206072366944, 'Sum Squared Error X': 1.390967290137619, 'Real Y': 1184, 'Predicted Y': 1195.3113026976469, 'Sum Squared Error Y': 127.94556871779295}
+person: 2
+{'Real X': 733, 'Predicted X': 732.872561903703, 'Sum Squared Error X': 0.01624046838781756, 'Real Y': 1234, 'Predicted Y': 1238.7440000240406, 'Sum Squared Error Y': 22.5055362280971}
+Sim: 40
+person: 0
+{'Real X': 700, 'Predicted X': 698.8989474498497, 'Sum Squared Error X': 1.2123167181923844, 'Real Y': 1076, 'Predicted Y': 1064.4716318765604, 'Sum Squared Error Y': 132.90327158953775}
+person: 1
+{'Real X': 734, 'Predicted X': 734.2294398270365, 'Sum Squared Error X': 0.05264263423051983, 'Real Y': 1184, 'Predicted Y': 1190.3975849148876, 'Sum Squared Error Y': 40.92909274319741}
+person: 2
+{'Real X': 733, 'Predicted X': 732.7975029589857, 'Sum Squared Error X': 0.041005051619563145, 'Real Y': 1234, 'Predicted Y': 1243.529736588265, 'Sum Squared Error Y': 90.81587944171656}
+Sim: 50
+person: 0
+{'Real X': 700, 'Predicted X': 698.0888190743567, 'Sum Squared Error X': 3.652612530542756, 'Real Y': 1076, 'Predicted Y': 1062.874265952736, 'Sum Squared Error Y': 172.28489427950288}
+person: 1
+{'Real X': 734, 'Predicted X': 732.620615222042, 'Sum Squared Error X': 1.9027023656621485, 'Real Y': 1184, 'Predicted Y': 1190.320586118531, 'Sum Squared Error Y': 39.949808881767815}
+person: 2
+{'Real X': 733, 'Predicted X': 735.0660591312117, 'Sum Squared Error X': 4.268600333663077, 'Real Y': 1234, 'Predicted Y': 1240.1246880167314, 'Sum Squared Error Y': 37.51180330229318}
+Sim: 60
+person: 0
+{'Real X': 700, 'Predicted X': 700.6462580816323, 'Sum Squared Error X': 0.41764950807500145, 'Real Y': 1076, 'Predicted Y': 1064.8381618582748, 'Sum Squared Error Y': 124.5866307020711}
+person: 1
+{'Real X': 734, 'Predicted X': 735.6990110685788, 'Sum Squared Error X': 2.8866386111532214, 'Real Y': 1184, 'Predicted Y': 1191.0387113045588, 'Sum Squared Error Y': 49.543456828923475}
+person: 2
+{'Real X': 733, 'Predicted X': 736.3683735726072, 'Sum Squared Error X': 11.345940524638573, 'Real Y': 1234, 'Predicted Y': 1249.1253990076098, 'Sum Squared Error Y': 228.77769513940225}
+Sim: 70
+person: 0
+{'Real X': 700, 'Predicted X': 696.9091178156576, 'Sum Squared Error X': 9.5535526774851, 'Real Y': 1076, 'Predicted Y': 1064.5836922467438, 'Sum Squared Error Y': 130.33208271705774}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1308635483931, 'Sum Squared Error X': 1.2788523650842523, 'Real Y': 1184, 'Predicted Y': 1190.1290453146871, 'Sum Squared Error Y': 37.56519646948812}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2262202717957, 'Sum Squared Error X': 4.956056698554042, 'Real Y': 1234, 'Predicted Y': 1247.8983378149276, 'Sum Squared Error Y': 193.16379401784573}
+Sim: 80
+person: 0
+{'Real X': 700, 'Predicted X': 699.4862932364912, 'Sum Squared Error X': 0.26389463887470826, 'Real Y': 1076, 'Predicted Y': 1061.5659997587973, 'Sum Squared Error Y': 208.34036296304072}
+person: 1
+{'Real X': 734, 'Predicted X': 734.900444611674, 'Sum Squared Error X': 0.8108004986926457, 'Real Y': 1184, 'Predicted Y': 1191.1722612639958, 'Sum Squared Error Y': 51.44133163901433}
+person: 2
+{'Real X': 733, 'Predicted X': 736.1548883682431, 'Sum Squared Error X': 9.953320616075384, 'Real Y': 1234, 'Predicted Y': 1244.0347854763202, 'Sum Squared Error Y': 100.69691955576616}
+Sim: 90
+person: 0
+{'Real X': 700, 'Predicted X': 697.1239976086603, 'Sum Squared Error X': 8.271389754991898, 'Real Y': 1076, 'Predicted Y': 1062.768360595636, 'Sum Squared Error Y': 175.0762813271163}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0970532306578, 'Sum Squared Error X': 1.2035257908967616, 'Real Y': 1184, 'Predicted Y': 1189.055170804143, 'Sum Squared Error Y': 25.554751859059962}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5850795085357, 'Sum Squared Error X': 2.5124770483798637, 'Real Y': 1234, 'Predicted Y': 1248.517732762305, 'Sum Squared Error Y': 210.76456455770568}
+Sim: 100
+person: 0
+{'Real X': 700, 'Predicted X': 697.9185179150372, 'Sum Squared Error X': 4.332567670020969, 'Real Y': 1076, 'Predicted Y': 1062.6373583769314, 'Sum Squared Error Y': 178.56019114656576}
+person: 1
+{'Real X': 734, 'Predicted X': 733.5822439179206, 'Sum Squared Error X': 0.17452014411437192, 'Real Y': 1184, 'Predicted Y': 1188.765092741522, 'Sum Squared Error Y': 22.706108835306026}
+person: 2
+{'Real X': 733, 'Predicted X': 733.4309613687415, 'Sum Squared Error X': 0.18572770134751607, 'Real Y': 1234, 'Predicted Y': 1245.9972174175373, 'Sum Squared Error Y': 143.93322576366}
+Sim: 110
+person: 0
+{'Real X': 700, 'Predicted X': 698.8903603761393, 'Sum Squared Error X': 1.2313000948418134, 'Real Y': 1076, 'Predicted Y': 1063.6038677321906, 'Sum Squared Error Y': 153.66409520102627}
+person: 1
+{'Real X': 734, 'Predicted X': 736.1323923585733, 'Sum Squared Error X': 4.547097170901673, 'Real Y': 1184, 'Predicted Y': 1190.1190663298794, 'Sum Squared Error Y': 37.4429727494636}
+person: 2
+{'Real X': 733, 'Predicted X': 734.0050859682376, 'Sum Squared Error X': 1.010197803548131, 'Real Y': 1234, 'Predicted Y': 1244.5839464922378, 'Sum Squared Error Y': 112.01992335055343}
+Sim: 120
+person: 0
+{'Real X': 700, 'Predicted X': 699.8148613876549, 'Sum Squared Error X': 0.03427630578106896, 'Real Y': 1076, 'Predicted Y': 1062.6214429879892, 'Sum Squared Error Y': 178.98578772362302}
+person: 1
+{'Real X': 734, 'Predicted X': 734.3133853303889, 'Sum Squared Error X': 0.09821036530294917, 'Real Y': 1184, 'Predicted Y': 1193.8275294150562, 'Sum Squared Error Y': 96.5803344037955}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6071215848444, 'Sum Squared Error X': 2.5828397884728895, 'Real Y': 1234, 'Predicted Y': 1244.2657021839946, 'Sum Squared Error Y': 105.38464133047074}
+Sim: 130
+person: 0
+{'Real X': 700, 'Predicted X': 699.1520666242084, 'Sum Squared Error X': 0.7189910097813837, 'Real Y': 1076, 'Predicted Y': 1063.503272054169, 'Sum Squared Error Y': 156.16820935211413}
+person: 1
+{'Real X': 734, 'Predicted X': 736.3511824188993, 'Sum Squared Error X': 5.528058766941025, 'Real Y': 1184, 'Predicted Y': 1189.5455991802914, 'Sum Squared Error Y': 30.753670268449167}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4547302309868, 'Sum Squared Error X': 2.1162400449469008, 'Real Y': 1234, 'Predicted Y': 1245.7159980474516, 'Sum Squared Error Y': 137.26461024789086}
+Sim: 140
+person: 0
+{'Real X': 700, 'Predicted X': 697.9936687299219, 'Sum Squared Error X': 4.025365165293343, 'Real Y': 1076, 'Predicted Y': 1064.0478257862578, 'Sum Squared Error Y': 142.85446843564355}
+person: 1
+{'Real X': 734, 'Predicted X': 735.8067874404712, 'Sum Squared Error X': 3.2644808550445625, 'Real Y': 1184, 'Predicted Y': 1190.1510018630534, 'Sum Squared Error Y': 37.83482391928581}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4529448613944, 'Sum Squared Error X': 2.1110487702523093, 'Real Y': 1234, 'Predicted Y': 1246.533252083159, 'Sum Squared Error Y': 157.08240778000726}
+Sim: 150
+person: 0
+{'Real X': 700, 'Predicted X': 698.41538376615, 'Sum Squared Error X': 2.511008608581136, 'Real Y': 1076, 'Predicted Y': 1062.0742176800045, 'Sum Squared Error Y': 193.9274132238994}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8821862087298, 'Sum Squared Error X': 0.7782525068729933, 'Real Y': 1184, 'Predicted Y': 1192.7888260722507, 'Sum Squared Error Y': 77.24346372827341}
+person: 2
+{'Real X': 733, 'Predicted X': 734.253177204549, 'Sum Squared Error X': 1.570453106001364, 'Real Y': 1234, 'Predicted Y': 1244.3680903888371, 'Sum Squared Error Y': 107.49729831109661}
+Sim: 160
+person: 0
+{'Real X': 700, 'Predicted X': 698.3858731288879, 'Sum Squared Error X': 2.605405556046294, 'Real Y': 1076, 'Predicted Y': 1062.7110347967052, 'Sum Squared Error Y': 176.59659617437907}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1839035164662, 'Sum Squared Error X': 1.4016275363010726, 'Real Y': 1184, 'Predicted Y': 1192.4475921864503, 'Sum Squared Error Y': 71.36181374857557}
+person: 2
+{'Real X': 733, 'Predicted X': 733.7028460807826, 'Sum Squared Error X': 0.4939926132714502, 'Real Y': 1234, 'Predicted Y': 1243.678489703166, 'Sum Squared Error Y': 93.67316293428934}
+Sim: 170
+person: 0
+{'Real X': 700, 'Predicted X': 699.5022962017676, 'Sum Squared Error X': 0.24770907077490864, 'Real Y': 1076, 'Predicted Y': 1061.6556798952834, 'Sum Squared Error Y': 205.7595192665781}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8732782715047, 'Sum Squared Error X': 0.7626149394821661, 'Real Y': 1184, 'Predicted Y': 1190.4229157881496, 'Sum Squared Error Y': 41.25384722166097}
+person: 2
+{'Real X': 733, 'Predicted X': 734.3323102487329, 'Sum Squared Error X': 1.7750505988788228, 'Real Y': 1234, 'Predicted Y': 1242.6344871529413, 'Sum Squared Error Y': 74.55436839430917}
+Sim: 180
+person: 0
+{'Real X': 700, 'Predicted X': 698.414805833371, 'Sum Squared Error X': 2.5128405459145475, 'Real Y': 1076, 'Predicted Y': 1062.9006664844906, 'Sum Squared Error Y': 171.59253855054897}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1343757046076, 'Sum Squared Error X': 1.286808239203939, 'Real Y': 1184, 'Predicted Y': 1191.4812160418542, 'Sum Squared Error Y': 55.968593464896145}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1468082780303, 'Sum Squared Error X': 4.608785782619571, 'Real Y': 1234, 'Predicted Y': 1247.4290512798063, 'Sum Squared Error Y': 180.33941827566844}
+Sim: 190
+person: 0
+{'Real X': 700, 'Predicted X': 698.1943246482372, 'Sum Squared Error X': 3.260463475963818, 'Real Y': 1076, 'Predicted Y': 1063.556291539775, 'Sum Squared Error Y': 154.84588024307587}
+person: 1
+{'Real X': 734, 'Predicted X': 736.0060873669643, 'Sum Squared Error X': 4.024386523893622, 'Real Y': 1184, 'Predicted Y': 1191.4459801964172, 'Sum Squared Error Y': 55.44262108543664}
+person: 2
+{'Real X': 733, 'Predicted X': 734.0470872438602, 'Sum Squared Error X': 1.0963916962548186, 'Real Y': 1234, 'Predicted Y': 1243.9734773359119, 'Sum Squared Error Y': 99.47025016994766}
+Sim: 200
+person: 0
+{'Real X': 700, 'Predicted X': 698.4571367832311, 'Sum Squared Error X': 2.3804269056583687, 'Real Y': 1076, 'Predicted Y': 1063.6186977221028, 'Sum Squared Error Y': 153.29664609666358}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0459925997434, 'Sum Squared Error X': 1.0941005187179267, 'Real Y': 1184, 'Predicted Y': 1191.2985665692268, 'Sum Squared Error Y': 53.26907396543434}
+person: 2
+{'Real X': 733, 'Predicted X': 732.9141117171658, 'Sum Squared Error X': 0.007376797128201017, 'Real Y': 1234, 'Predicted Y': 1243.1798971494404, 'Sum Squared Error Y': 84.27051167430437}
+Sim: 210
+person: 0
+{'Real X': 700, 'Predicted X': 698.4303125362571, 'Sum Squared Error X': 2.4639187338315125, 'Real Y': 1076, 'Predicted Y': 1063.0669991399, 'Sum Squared Error Y': 167.2625112473483}
+person: 1
+{'Real X': 734, 'Predicted X': 733.8864309657677, 'Sum Squared Error X': 0.012897925536466742, 'Real Y': 1184, 'Predicted Y': 1190.7200767979991, 'Sum Squared Error Y': 45.1594321710062}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5536298577678, 'Sum Squared Error X': 2.4137657349474697, 'Real Y': 1234, 'Predicted Y': 1247.0289237929242, 'Sum Squared Error Y': 169.7528552018253}
+Sim: 220
+person: 0
+{'Real X': 700, 'Predicted X': 700.1990405008091, 'Sum Squared Error X': 0.03961712096235045, 'Real Y': 1076, 'Predicted Y': 1064.699624992189, 'Sum Squared Error Y': 127.69847531715943}
+person: 1
+{'Real X': 734, 'Predicted X': 734.4829218172882, 'Sum Squared Error X': 0.23321348161296587, 'Real Y': 1184, 'Predicted Y': 1191.119685558062, 'Sum Squared Error Y': 50.689922445676245}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9496912938228, 'Sum Squared Error X': 3.801296141208238, 'Real Y': 1234, 'Predicted Y': 1248.1175973539382, 'Sum Squared Error Y': 199.3065550479231}
+Sim: 230
+person: 0
+{'Real X': 700, 'Predicted X': 697.9571819969899, 'Sum Squared Error X': 4.173105393422163, 'Real Y': 1076, 'Predicted Y': 1062.9995488513982, 'Sum Squared Error Y': 169.01173006718105}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9858845050996, 'Sum Squared Error X': 0.9719682573955776, 'Real Y': 1184, 'Predicted Y': 1191.8117473383231, 'Sum Squared Error Y': 61.02339647779851}
+person: 2
+{'Real X': 733, 'Predicted X': 735.9135130154967, 'Sum Squared Error X': 8.488558091468866, 'Real Y': 1234, 'Predicted Y': 1247.543310194862, 'Sum Squared Error Y': 183.42125103425266}
+Sim: 240
+person: 0
+{'Real X': 700, 'Predicted X': 698.9816535908504, 'Sum Squared Error X': 1.037029409027799, 'Real Y': 1076, 'Predicted Y': 1063.7166507188178, 'Sum Squared Error Y': 150.88066956351815}
+person: 1
+{'Real X': 734, 'Predicted X': 734.1987683520504, 'Sum Squared Error X': 0.039508857776817896, 'Real Y': 1184, 'Predicted Y': 1190.8079316198841, 'Sum Squared Error Y': 46.34793294101815}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2196194975779, 'Sum Squared Error X': 4.926710714028074, 'Real Y': 1234, 'Predicted Y': 1246.8758912028175, 'Sum Squared Error Y': 165.78857426679195}
+Sim: 250
+person: 0
+{'Real X': 700, 'Predicted X': 698.2242756530668, 'Sum Squared Error X': 3.153196956291348, 'Real Y': 1076, 'Predicted Y': 1063.426762680525, 'Sum Squared Error Y': 158.08629669184097}
+person: 1
+{'Real X': 734, 'Predicted X': 734.1584201412463, 'Sum Squared Error X': 0.02509694115250538, 'Real Y': 1184, 'Predicted Y': 1191.8154189619827, 'Sum Squared Error Y': 61.080773551318536}
+person: 2
+{'Real X': 733, 'Predicted X': 735.8710058272558, 'Sum Squared Error X': 8.242674460136598, 'Real Y': 1234, 'Predicted Y': 1247.08557063034, 'Sum Squared Error Y': 171.23215872161794}
+Sim: 260
+person: 0
+{'Real X': 700, 'Predicted X': 699.6694745037148, 'Sum Squared Error X': 0.10924710369457145, 'Real Y': 1076, 'Predicted Y': 1062.7043914424457, 'Sum Squared Error Y': 176.77320691571006}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8189418180544, 'Sum Squared Error X': 0.6706657013583128, 'Real Y': 1184, 'Predicted Y': 1191.6320523936542, 'Sum Squared Error Y': 58.24822373948354}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8381747266557, 'Sum Squared Error X': 3.378886325715632, 'Real Y': 1234, 'Predicted Y': 1247.3421123343, 'Sum Squared Error Y': 178.01196154108166}
+Sim: 270
+person: 0
+{'Real X': 700, 'Predicted X': 698.1476337590764, 'Sum Squared Error X': 3.4312606905135374, 'Real Y': 1076, 'Predicted Y': 1062.7954735494825, 'Sum Squared Error Y': 174.35951878241644}
+person: 1
+{'Real X': 734, 'Predicted X': 736.858160524973, 'Sum Squared Error X': 8.169081586513702, 'Real Y': 1184, 'Predicted Y': 1189.852934804614, 'Sum Squared Error Y': 34.25684582706252}
+person: 2
+{'Real X': 733, 'Predicted X': 735.002637155382, 'Sum Squared Error X': 4.010555576116468, 'Real Y': 1234, 'Predicted Y': 1246.4856535481379, 'Sum Squared Error Y': 155.89154452412757}
+Sim: 280
+person: 0
+{'Real X': 700, 'Predicted X': 698.4603330320424, 'Sum Squared Error X': 2.3705743722197514, 'Real Y': 1076, 'Predicted Y': 1064.0517625141124, 'Sum Squared Error Y': 142.7603790191697}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2313949300075, 'Sum Squared Error X': 1.5163334736480976, 'Real Y': 1184, 'Predicted Y': 1190.5452601499483, 'Sum Squared Error Y': 42.84043043050075}
+person: 2
+{'Real X': 733, 'Predicted X': 734.1946539724601, 'Sum Squared Error X': 1.4271981139146013, 'Real Y': 1234, 'Predicted Y': 1245.5938066579954, 'Sum Squared Error Y': 134.4163528229785}
+Sim: 290
+person: 0
+{'Real X': 700, 'Predicted X': 698.2690348898602, 'Sum Squared Error X': 2.9962402125212124, 'Real Y': 1076, 'Predicted Y': 1062.8865382384083, 'Sum Squared Error Y': 171.96287937272714}
+person: 1
+{'Real X': 734, 'Predicted X': 734.495301242554, 'Sum Squared Error X': 0.24532332087551478, 'Real Y': 1184, 'Predicted Y': 1191.4389871080298, 'Sum Squared Error Y': 55.33852919343324}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7702040403535, 'Sum Squared Error X': 3.1336223444839244, 'Real Y': 1234, 'Predicted Y': 1245.5066174315577, 'Sum Squared Error Y': 132.4022447162285}
+Sim: 300
+person: 0
+{'Real X': 700, 'Predicted X': 698.6625455160452, 'Sum Squared Error X': 1.7887844966509165, 'Real Y': 1076, 'Predicted Y': 1062.5049263564727, 'Sum Squared Error Y': 182.1170126442265}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2234037084428, 'Sum Squared Error X': 1.4967166338315667, 'Real Y': 1184, 'Predicted Y': 1190.6236132425465, 'Sum Squared Error Y': 43.8722523868377}
+person: 2
+{'Real X': 733, 'Predicted X': 735.3260269240038, 'Sum Squared Error X': 5.410401251190705, 'Real Y': 1234, 'Predicted Y': 1245.6358487504758, 'Sum Squared Error Y': 135.3929761439496}
+Sim: 310
+person: 0
+{'Real X': 700, 'Predicted X': 696.90760630749, 'Sum Squared Error X': 9.562898749475462, 'Real Y': 1076, 'Predicted Y': 1063.8417401789964, 'Sum Squared Error Y': 147.82328187503146}
+person: 1
+{'Real X': 734, 'Predicted X': 735.6274575061532, 'Sum Squared Error X': 2.648617934334321, 'Real Y': 1184, 'Predicted Y': 1190.9188587616245, 'Sum Squared Error Y': 47.87060656330819}
+person: 2
+{'Real X': 733, 'Predicted X': 734.0533743910695, 'Sum Squared Error X': 1.1095976077610328, 'Real Y': 1234, 'Predicted Y': 1245.4011660971437, 'Sum Squared Error Y': 129.9865883746586}
+Sim: 320
+person: 0
+{'Real X': 700, 'Predicted X': 699.2044850856914, 'Sum Squared Error X': 0.6328439788873701, 'Real Y': 1076, 'Predicted Y': 1063.8046804539827, 'Sum Squared Error Y': 148.7258188294727}
+person: 1
+{'Real X': 734, 'Predicted X': 734.5440380098951, 'Sum Squared Error X': 0.29597735621059423, 'Real Y': 1184, 'Predicted Y': 1192.0060757910283, 'Sum Squared Error Y': 64.09724957168865}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4905809885317, 'Sum Squared Error X': 2.221831683372279, 'Real Y': 1234, 'Predicted Y': 1245.3088971323562, 'Sum Squared Error Y': 127.89115435021317}
+Sim: 330
+person: 0
+{'Real X': 700, 'Predicted X': 699.8995526932526, 'Sum Squared Error X': 0.010089661432797324, 'Real Y': 1076, 'Predicted Y': 1063.334166260352, 'Sum Squared Error Y': 160.4233443204044}
+person: 1
+{'Real X': 734, 'Predicted X': 734.5082642400389, 'Sum Squared Error X': 0.25833253770231823, 'Real Y': 1184, 'Predicted Y': 1191.8793471674614, 'Sum Squared Error Y': 62.084111785382724}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9234041696903, 'Sum Squared Error X': 3.6994835999821984, 'Real Y': 1234, 'Predicted Y': 1243.4085900649216, 'Sum Squared Error Y': 88.52156700974058}
+Sim: 340
+person: 0
+{'Real X': 700, 'Predicted X': 699.1944910550716, 'Sum Squared Error X': 0.6488446603596958, 'Real Y': 1076, 'Predicted Y': 1062.7043487205613, 'Sum Squared Error Y': 176.7743429444411}
+person: 1
+{'Real X': 734, 'Predicted X': 735.261293087098, 'Sum Squared Error X': 1.5908602515612302, 'Real Y': 1184, 'Predicted Y': 1191.4879448337933, 'Sum Squared Error Y': 56.0693178339323}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9590133469646, 'Sum Squared Error X': 3.837733293585597, 'Real Y': 1234, 'Predicted Y': 1244.9244526214625, 'Sum Squared Error Y': 119.34366507857841}
+Sim: 350
+person: 0
+{'Real X': 700, 'Predicted X': 699.3149643776018, 'Sum Squared Error X': 0.46927380395453266, 'Real Y': 1076, 'Predicted Y': 1063.6595365942258, 'Sum Squared Error Y': 152.28703706925324}
+person: 1
+{'Real X': 734, 'Predicted X': 734.3692474887382, 'Sum Squared Error X': 0.13634370793947484, 'Real Y': 1184, 'Predicted Y': 1190.3735429717044, 'Sum Squared Error Y': 40.62205001216268}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7750355528119, 'Sum Squared Error X': 3.1507512137462985, 'Real Y': 1234, 'Predicted Y': 1246.3857720095823, 'Sum Squared Error Y': 153.40734827335228}
+Sim: 360
+person: 0
+{'Real X': 700, 'Predicted X': 697.9759719221141, 'Sum Squared Error X': 4.096689660070383, 'Real Y': 1076, 'Predicted Y': 1063.7116581018606, 'Sum Squared Error Y': 151.0033466055677}
+person: 1
+{'Real X': 734, 'Predicted X': 735.7847766890168, 'Sum Squared Error X': 3.1854278296577014, 'Real Y': 1184, 'Predicted Y': 1192.2325057013732, 'Sum Squared Error Y': 67.77415012314152}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1125321588984, 'Sum Squared Error X': 4.46279212237983, 'Real Y': 1234, 'Predicted Y': 1245.4721953605826, 'Sum Squared Error Y': 131.611266391374}
+Sim: 370
+person: 0
+{'Real X': 700, 'Predicted X': 699.1413462605685, 'Sum Squared Error X': 0.7372862442396547, 'Real Y': 1076, 'Predicted Y': 1064.0160811133148, 'Sum Squared Error Y': 143.61431188264928}
+person: 1
+{'Real X': 734, 'Predicted X': 734.748647358095, 'Sum Squared Error X': 0.560472866782643, 'Real Y': 1184, 'Predicted Y': 1190.2658671791705, 'Sum Squared Error Y': 39.26109150700642}
+person: 2
+{'Real X': 733, 'Predicted X': 735.0522760935778, 'Sum Squared Error X': 4.211837164270965, 'Real Y': 1234, 'Predicted Y': 1247.4165454058184, 'Sum Squared Error Y': 180.00369062638674}
+Sim: 380
+person: 0
+{'Real X': 700, 'Predicted X': 698.6937604902595, 'Sum Squared Error X': 1.706261656807158, 'Real Y': 1076, 'Predicted Y': 1063.975645876007, 'Sum Squared Error Y': 144.58509209918523}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8953721635942, 'Sum Squared Error X': 0.8016913113393136, 'Real Y': 1184, 'Predicted Y': 1190.0214751546707, 'Sum Squared Error Y': 36.25816303831683}
+person: 2
+{'Real X': 733, 'Predicted X': 735.4649672682128, 'Sum Squared Error X': 6.0760636333606275, 'Real Y': 1234, 'Predicted Y': 1247.00173289572, 'Sum Squared Error Y': 169.0450582916449}
+Sim: 390
+person: 0
+{'Real X': 700, 'Predicted X': 699.6819077713956, 'Sum Squared Error X': 0.1011826658985316, 'Real Y': 1076, 'Predicted Y': 1063.7735683507044, 'Sum Squared Error Y': 149.4856308748969}
+person: 1
+{'Real X': 734, 'Predicted X': 734.1936073005324, 'Sum Squared Error X': 0.03748378681946195, 'Real Y': 1184, 'Predicted Y': 1191.574658139104, 'Sum Squared Error Y': 57.37544592429494}
+person: 2
+{'Real X': 733, 'Predicted X': 735.0146980099355, 'Sum Squared Error X': 4.0590080712380665, 'Real Y': 1234, 'Predicted Y': 1246.2506406902503, 'Sum Squared Error Y': 150.0781973216162}
+Sim: 400
+person: 0
+{'Real X': 700, 'Predicted X': 698.581530898123, 'Sum Squared Error X': 2.012054592979766, 'Real Y': 1076, 'Predicted Y': 1062.7157163926063, 'Sum Squared Error Y': 176.47219096166944}
+person: 1
+{'Real X': 734, 'Predicted X': 734.5749518269686, 'Sum Squared Error X': 0.3305696033344991, 'Real Y': 1184, 'Predicted Y': 1190.6085325748052, 'Sum Squared Error Y': 43.67270279226101}
+person: 2
+{'Real X': 733, 'Predicted X': 735.079855490194, 'Sum Squared Error X': 4.325798860089915, 'Real Y': 1234, 'Predicted Y': 1244.7996944689253, 'Sum Squared Error Y': 116.63340062213531}
+Sim: 410
+person: 0
+{'Real X': 700, 'Predicted X': 698.3035920882774, 'Sum Squared Error X': 2.877799802955184, 'Real Y': 1076, 'Predicted Y': 1063.8559321102373, 'Sum Squared Error Y': 147.4783849111657}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2361882275688, 'Sum Squared Error X': 1.5281613339798046, 'Real Y': 1184, 'Predicted Y': 1190.748101246294, 'Sum Squared Error Y': 45.536870430235}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8204450296594, 'Sum Squared Error X': 3.314020106011496, 'Real Y': 1234, 'Predicted Y': 1247.346941946176, 'Sum Squared Error Y': 178.14085931459246}
+Sim: 420
+person: 0
+{'Real X': 700, 'Predicted X': 699.2051579074273, 'Sum Squared Error X': 0.6317739521253609, 'Real Y': 1076, 'Predicted Y': 1063.128111015485, 'Sum Squared Error Y': 165.6855260296774}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4312707367296, 'Sum Squared Error X': 2.0485359218185772, 'Real Y': 1184, 'Predicted Y': 1191.007929766526, 'Sum Squared Error Y': 49.11107961256261}
+person: 2
+{'Real X': 733, 'Predicted X': 735.4910500345391, 'Sum Squared Error X': 6.205330274577039, 'Real Y': 1234, 'Predicted Y': 1245.5385376084896, 'Sum Squared Error Y': 133.137850142529}
+Sim: 430
+person: 0
+{'Real X': 700, 'Predicted X': 698.5944678759738, 'Sum Squared Error X': 1.9755205516695862, 'Real Y': 1076, 'Predicted Y': 1062.9739858268008, 'Sum Squared Error Y': 169.67704524038646}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7999002664244, 'Sum Squared Error X': 0.6398404362258289, 'Real Y': 1184, 'Predicted Y': 1191.44586149533, 'Sum Squared Error Y': 55.440853407638855}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7604888362744, 'Sum Squared Error X': 3.099320942646658, 'Real Y': 1234, 'Predicted Y': 1245.687290835075, 'Sum Squared Error Y': 136.59276706362618}
+Sim: 440
+person: 0
+{'Real X': 700, 'Predicted X': 698.6942232235857, 'Sum Squared Error X': 1.705052989822897, 'Real Y': 1076, 'Predicted Y': 1062.7044873936068, 'Sum Squared Error Y': 176.77065546676133}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1203787405439, 'Sum Squared Error X': 1.2552485222626373, 'Real Y': 1184, 'Predicted Y': 1190.3825262661535, 'Sum Squared Error Y': 40.73664153813922}
+person: 2
+{'Real X': 733, 'Predicted X': 734.1491041114665, 'Sum Squared Error X': 1.3204402589892132, 'Real Y': 1234, 'Predicted Y': 1246.257998316077, 'Sum Squared Error Y': 150.2585227169457}
+Sim: 450
+person: 0
+{'Real X': 700, 'Predicted X': 699.794251457568, 'Sum Squared Error X': 0.04233246271291207, 'Real Y': 1076, 'Predicted Y': 1061.9753272185735, 'Sum Squared Error Y': 196.691446626085}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9556861770229, 'Sum Squared Error X': 0.9133360689526957, 'Real Y': 1184, 'Predicted Y': 1190.9588633648827, 'Sum Squared Error Y': 48.42577933110721}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8114217079866, 'Sum Squared Error X': 3.281248604165079, 'Real Y': 1234, 'Predicted Y': 1245.7126218506082, 'Sum Squared Error Y': 137.18551061534535}
+Sim: 460
+person: 0
+{'Real X': 700, 'Predicted X': 698.7297076563799, 'Sum Squared Error X': 1.6136426382598437, 'Real Y': 1076, 'Predicted Y': 1062.8543086899026, 'Sum Squared Error Y': 172.80920002037004}
+person: 1
+{'Real X': 734, 'Predicted X': 734.1355592042764, 'Sum Squared Error X': 0.018376297864059653, 'Real Y': 1184, 'Predicted Y': 1190.942593720974, 'Sum Squared Error Y': 48.19960757450686}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9998017395881, 'Sum Squared Error X': 3.9992069976594515, 'Real Y': 1234, 'Predicted Y': 1246.9875195680982, 'Sum Squared Error Y': 168.67566453173237}
+Sim: 470
+person: 0
+{'Real X': 700, 'Predicted X': 698.9920729923792, 'Sum Squared Error X': 1.0159168526913496, 'Real Y': 1076, 'Predicted Y': 1063.3369488937537, 'Sum Squared Error Y': 160.35286331940458}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6160203238039, 'Sum Squared Error X': 0.3794810393394902, 'Real Y': 1184, 'Predicted Y': 1191.0069821578954, 'Sum Squared Error Y': 49.09779896106498}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6686492926781, 'Sum Squared Error X': 2.7843904619550663, 'Real Y': 1234, 'Predicted Y': 1246.241017678159, 'Sum Squared Error Y': 149.8425137970035}
+Sim: 480
+person: 0
+{'Real X': 700, 'Predicted X': 698.4492046645013, 'Sum Squared Error X': 2.4049661726045857, 'Real Y': 1076, 'Predicted Y': 1063.2580452507173, 'Sum Squared Error Y': 162.35741083276898}
+person: 1
+{'Real X': 734, 'Predicted X': 734.805819547465, 'Sum Squared Error X': 0.6493451430767533, 'Real Y': 1184, 'Predicted Y': 1191.1597120728852, 'Sum Squared Error Y': 51.261476966618275}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2293487749085, 'Sum Squared Error X': 1.5112984103691387, 'Real Y': 1234, 'Predicted Y': 1246.8932971197264, 'Sum Squared Error Y': 166.2371106175454}
+Sim: 490
+person: 0
+{'Real X': 700, 'Predicted X': 699.4682967100191, 'Sum Squared Error X': 0.28270838857650926, 'Real Y': 1076, 'Predicted Y': 1062.4443923896074, 'Sum Squared Error Y': 183.75449768693375}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8461816098383, 'Sum Squared Error X': 0.7160233168284594, 'Real Y': 1184, 'Predicted Y': 1190.497086977025, 'Sum Squared Error Y': 42.212139187027745}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5629706982379, 'Sum Squared Error X': 2.4428774035502836, 'Real Y': 1234, 'Predicted Y': 1246.639584348279, 'Sum Squared Error Y': 159.75909249725842}
+Sim: 500
+person: 0
+{'Real X': 700, 'Predicted X': 699.2366956710739, 'Sum Squared Error X': 0.5826334985573189, 'Real Y': 1076, 'Predicted Y': 1062.5824969407304, 'Sum Squared Error Y': 180.02938834550963}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5462133174404, 'Sum Squared Error X': 2.390775623030193, 'Real Y': 1184, 'Predicted Y': 1190.6613415672464, 'Sum Squared Error Y': 44.37347147552448}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8892655722798, 'Sum Squared Error X': 3.5693244026016546, 'Real Y': 1234, 'Predicted Y': 1246.5971202268074, 'Sum Squared Error Y': 158.6874380086406}
+Sim: 510
+person: 0
+{'Real X': 700, 'Predicted X': 698.7900455139022, 'Sum Squared Error X': 1.4639898584281568, 'Real Y': 1076, 'Predicted Y': 1063.4805923912406, 'Sum Squared Error Y': 156.7355668742619}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6279935616078, 'Sum Squared Error X': 0.3943759134208612, 'Real Y': 1184, 'Predicted Y': 1191.3642467033783, 'Sum Squared Error Y': 54.23212950821794}
+person: 2
+{'Real X': 733, 'Predicted X': 733.9951812252157, 'Sum Squared Error X': 0.9903856710217704, 'Real Y': 1234, 'Predicted Y': 1246.9693824244387, 'Sum Squared Error Y': 168.2048804713385}
+Sim: 520
+person: 0
+{'Real X': 700, 'Predicted X': 699.2195985792002, 'Sum Squared Error X': 0.609026377586288, 'Real Y': 1076, 'Predicted Y': 1062.8789292410422, 'Sum Squared Error Y': 172.16249786157704}
+person: 1
+{'Real X': 734, 'Predicted X': 735.7123509910865, 'Sum Squared Error X': 2.9321459166749517, 'Real Y': 1184, 'Predicted Y': 1189.7493073314567, 'Sum Squared Error Y': 33.054534791542316}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2617772613719, 'Sum Squared Error X': 5.115636380058926, 'Real Y': 1234, 'Predicted Y': 1245.7106730903101, 'Sum Squared Error Y': 137.139864228114}
+Sim: 530
+person: 0
+{'Real X': 700, 'Predicted X': 698.7990268004735, 'Sum Squared Error X': 1.4423366259809558, 'Real Y': 1076, 'Predicted Y': 1063.4555519501332, 'Sum Squared Error Y': 157.36317687580663}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0848692589158, 'Sum Squared Error X': 1.1769413089404597, 'Real Y': 1184, 'Predicted Y': 1190.7789026838027, 'Sum Squared Error Y': 45.953521596467425}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9647947264658, 'Sum Squared Error X': 3.8604183171478628, 'Real Y': 1234, 'Predicted Y': 1246.7299215577564, 'Sum Squared Error Y': 162.05090286663037}
+Sim: 540
+person: 0
+{'Real X': 700, 'Predicted X': 699.0143828124349, 'Sum Squared Error X': 0.9714412404238161, 'Real Y': 1076, 'Predicted Y': 1064.1313632836586, 'Sum Squared Error Y': 140.86453750448646}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5798997046643, 'Sum Squared Error X': 2.4960830767982958, 'Real Y': 1184, 'Predicted Y': 1190.1930685222746, 'Sum Squared Error Y': 38.354097721589035}
+person: 2
+{'Real X': 733, 'Predicted X': 735.298526641004, 'Sum Squared Error X': 5.283224719404882, 'Real Y': 1234, 'Predicted Y': 1245.782491399591, 'Sum Squared Error Y': 138.82710358143544}
+Sim: 550
+person: 0
+{'Real X': 700, 'Predicted X': 699.07742362827, 'Sum Squared Error X': 0.8511471616744435, 'Real Y': 1076, 'Predicted Y': 1062.5710795545715, 'Sum Squared Error Y': 180.33590432964766}
+person: 1
+{'Real X': 734, 'Predicted X': 735.7176834465208, 'Sum Squared Error X': 2.950436422451653, 'Real Y': 1184, 'Predicted Y': 1191.0827378248068, 'Sum Squared Error Y': 50.16517509494935}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1602132423035, 'Sum Squared Error X': 4.666521252223333, 'Real Y': 1234, 'Predicted Y': 1246.9164170042761, 'Sum Squared Error Y': 166.83382822835347}
+Sim: 560
+person: 0
+{'Real X': 700, 'Predicted X': 698.88678862924, 'Sum Squared Error X': 1.2392395559894496, 'Real Y': 1076, 'Predicted Y': 1063.742413823862, 'Sum Squared Error Y': 150.24841886544743}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7524824013738, 'Sum Squared Error X': 0.566229764377212, 'Real Y': 1184, 'Predicted Y': 1190.8943779568972, 'Sum Squared Error Y': 47.53244741254984}
+person: 2
+{'Real X': 733, 'Predicted X': 735.4032774022107, 'Sum Squared Error X': 5.775742271976771, 'Real Y': 1234, 'Predicted Y': 1247.4790373922501, 'Sum Squared Error Y': 181.68444902167693}
+Sim: 570
+person: 0
+{'Real X': 700, 'Predicted X': 698.1106830620558, 'Sum Squared Error X': 3.5695184920026923, 'Real Y': 1076, 'Predicted Y': 1062.6965752104998, 'Sum Squared Error Y': 176.98111112988954}
+person: 1
+{'Real X': 734, 'Predicted X': 734.4934702639671, 'Sum Squared Error X': 0.24351290141974272, 'Real Y': 1184, 'Predicted Y': 1191.294983114463, 'Sum Squared Error Y': 53.216778640301655}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7995948970554, 'Sum Squared Error X': 3.238541793507783, 'Real Y': 1234, 'Predicted Y': 1246.552048648452, 'Sum Squared Error Y': 157.5539252731057}
+Sim: 580
+person: 0
+{'Real X': 700, 'Predicted X': 699.7221127415032, 'Sum Squared Error X': 0.07722132843485387, 'Real Y': 1076, 'Predicted Y': 1062.1778383539915, 'Sum Squared Error Y': 191.05215256838713}
+person: 1
+{'Real X': 734, 'Predicted X': 735.184588083491, 'Sum Squared Error X': 1.4032489275488984, 'Real Y': 1184, 'Predicted Y': 1190.0510345101347, 'Sum Squared Error Y': 36.615018642841584}
+person: 2
+{'Real X': 733, 'Predicted X': 735.3392533342119, 'Sum Squared Error X': 5.472106161621442, 'Real Y': 1234, 'Predicted Y': 1246.1168441637064, 'Sum Squared Error Y': 146.81791248754698}
+Sim: 590
+person: 0
+{'Real X': 700, 'Predicted X': 698.9752069862923, 'Sum Squared Error X': 1.050200720944155, 'Real Y': 1076, 'Predicted Y': 1063.8916378834783, 'Sum Squared Error Y': 146.61243314481726}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2214418239396, 'Sum Squared Error X': 1.4919201292688613, 'Real Y': 1184, 'Predicted Y': 1190.1765558149914, 'Sum Squared Error Y': 38.14984173570394}
+person: 2
+{'Real X': 733, 'Predicted X': 735.6074580386214, 'Sum Squared Error X': 6.798837423171444, 'Real Y': 1234, 'Predicted Y': 1245.142150567226, 'Sum Squared Error Y': 124.14751926273587}
+Sim: 600
+person: 0
+{'Real X': 700, 'Predicted X': 699.4876519919683, 'Sum Squared Error X': 0.26250048133407367, 'Real Y': 1076, 'Predicted Y': 1063.267988885637, 'Sum Squared Error Y': 162.1041070162656}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7470322709466, 'Sum Squared Error X': 0.5580572138357051, 'Real Y': 1184, 'Predicted Y': 1191.200227568076, 'Sum Squared Error Y': 51.843277032080024}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8950807669834, 'Sum Squared Error X': 3.5913311133902757, 'Real Y': 1234, 'Predicted Y': 1245.6943593627684, 'Sum Squared Error Y': 136.75804090556915}
+Sim: 610
+person: 0
+{'Real X': 700, 'Predicted X': 698.6524949896444, 'Sum Squared Error X': 1.8157697529333807, 'Real Y': 1076, 'Predicted Y': 1063.12533851499, 'Sum Squared Error Y': 165.7569083535983}
+person: 1
+{'Real X': 734, 'Predicted X': 734.63308102778, 'Sum Squared Error X': 0.40079158773499163, 'Real Y': 1184, 'Predicted Y': 1191.3369382490753, 'Sum Squared Error Y': 53.83066287074375}
+person: 2
+{'Real X': 733, 'Predicted X': 734.0991848620308, 'Sum Squared Error X': 1.208207360917723, 'Real Y': 1234, 'Predicted Y': 1246.515585389402, 'Sum Squared Error Y': 156.63987763941472}
+Sim: 620
+person: 0
+{'Real X': 700, 'Predicted X': 699.5063532910821, 'Sum Squared Error X': 0.24368707322550937, 'Real Y': 1076, 'Predicted Y': 1064.1598079733183, 'Sum Squared Error Y': 140.19014722869773}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0768773597983, 'Sum Squared Error X': 1.159664848046255, 'Real Y': 1184, 'Predicted Y': 1191.3592007701202, 'Sum Squared Error Y': 54.15783597493769}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4286199290746, 'Sum Squared Error X': 2.0409549017489925, 'Real Y': 1234, 'Predicted Y': 1245.8035922121428, 'Sum Squared Error Y': 139.32478911055824}
+Sim: 630
+person: 0
+{'Real X': 700, 'Predicted X': 698.3227306745684, 'Sum Squared Error X': 2.813232390033616, 'Real Y': 1076, 'Predicted Y': 1063.0054324067285, 'Sum Squared Error Y': 168.85878693610292}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3286647668031, 'Sum Squared Error X': 1.7653500625438252, 'Real Y': 1184, 'Predicted Y': 1191.8916260875058, 'Sum Squared Error Y': 62.2777623050014}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9768644866574, 'Sum Squared Error X': 3.9079931986072456, 'Real Y': 1234, 'Predicted Y': 1245.6264655723874, 'Sum Squared Error Y': 135.17470170590855}
+Sim: 640
+person: 0
+{'Real X': 700, 'Predicted X': 699.0647169864721, 'Sum Squared Error X': 0.8747543153937382, 'Real Y': 1076, 'Predicted Y': 1062.4596646076602, 'Sum Squared Error Y': 183.3406825370494}
+person: 1
+{'Real X': 734, 'Predicted X': 734.855707393997, 'Sum Squared Error X': 0.7322351441411752, 'Real Y': 1184, 'Predicted Y': 1190.3715869918742, 'Sum Squared Error Y': 40.59712079502064}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2795985547239, 'Sum Squared Error X': 1.6373724612513951, 'Real Y': 1234, 'Predicted Y': 1246.5289021211238, 'Sum Squared Error Y': 156.97338836070026}
+Sim: 650
+person: 0
+{'Real X': 700, 'Predicted X': 698.7764839263695, 'Sum Squared Error X': 1.4969915824323146, 'Real Y': 1076, 'Predicted Y': 1062.8128946498446, 'Sum Squared Error Y': 173.89974751609807}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5305471104318, 'Sum Squared Error X': 2.3425744572512115, 'Real Y': 1184, 'Predicted Y': 1189.7782374728654, 'Sum Squared Error Y': 33.38802829282575}
+person: 2
+{'Real X': 733, 'Predicted X': 735.110923668926, 'Sum Squared Error X': 4.455998736032149, 'Real Y': 1234, 'Predicted Y': 1245.3357230398137, 'Sum Squared Error Y': 128.4986168353638}
+Sim: 660
+person: 0
+{'Real X': 700, 'Predicted X': 700.0248632621929, 'Sum Squared Error X': 0.000618181806871219, 'Real Y': 1076, 'Predicted Y': 1062.9642576236556, 'Sum Squared Error Y': 169.93057930242082}
+person: 1
+{'Real X': 734, 'Predicted X': 735.090443784035, 'Sum Squared Error X': 1.1890676461404828, 'Real Y': 1184, 'Predicted Y': 1191.8510484324706, 'Sum Squared Error Y': 61.6389614889996}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8275863241023, 'Sum Squared Error X': 3.340071772045753, 'Real Y': 1234, 'Predicted Y': 1246.8765927511695, 'Sum Squared Error Y': 165.80664087947048}
+Sim: 670
+person: 0
+{'Real X': 700, 'Predicted X': 698.9281393750232, 'Sum Squared Error X': 1.1488851993756717, 'Real Y': 1076, 'Predicted Y': 1063.845841194358, 'Sum Squared Error Y': 147.7235762727663}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9153556351903, 'Sum Squared Error X': 0.8378759388746023, 'Real Y': 1184, 'Predicted Y': 1191.6525652310652, 'Sum Squared Error Y': 58.561754615707706}
+person: 2
+{'Real X': 733, 'Predicted X': 735.3407920042567, 'Sum Squared Error X': 5.479307207192291, 'Real Y': 1234, 'Predicted Y': 1246.5516409568138, 'Sum Squared Error Y': 157.5436907087656}
+Sim: 680
+person: 0
+{'Real X': 700, 'Predicted X': 698.7548046149218, 'Sum Squared Error X': 1.5505115470200586, 'Real Y': 1076, 'Predicted Y': 1062.759763466498, 'Sum Squared Error Y': 175.30386346307992}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1012544448892, 'Sum Squared Error X': 1.2127613523881107, 'Real Y': 1184, 'Predicted Y': 1191.0731889935385, 'Sum Squared Error Y': 50.0300025383135}
+person: 2
+{'Real X': 733, 'Predicted X': 735.256051138012, 'Sum Squared Error X': 5.089766737325358, 'Real Y': 1234, 'Predicted Y': 1245.1679189308516, 'Sum Squared Error Y': 124.72241324607256}
+Sim: 690
+person: 0
+{'Real X': 700, 'Predicted X': 699.0604491093621, 'Sum Squared Error X': 0.8827558760983977, 'Real Y': 1076, 'Predicted Y': 1064.0662671110429, 'Sum Squared Error Y': 142.4139806649773}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0349180715839, 'Sum Squared Error X': 1.0710554148909144, 'Real Y': 1184, 'Predicted Y': 1192.4616200899973, 'Sum Squared Error Y': 71.59901454744538}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4873840972846, 'Sum Squared Error X': 2.212311452855052, 'Real Y': 1234, 'Predicted Y': 1245.3467968020386, 'Sum Squared Error Y': 128.74979766675398}
+Sim: 700
+person: 0
+{'Real X': 700, 'Predicted X': 698.9274899571103, 'Sum Squared Error X': 1.1502777920992435, 'Real Y': 1076, 'Predicted Y': 1063.259745719875, 'Sum Squared Error Y': 162.31407912224594}
+person: 1
+{'Real X': 734, 'Predicted X': 735.697167222202, 'Sum Squared Error X': 2.8803765801167964, 'Real Y': 1184, 'Predicted Y': 1190.7367061766545, 'Sum Squared Error Y': 45.383210110574616}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2282326558899, 'Sum Squared Error X': 4.965020768774082, 'Real Y': 1234, 'Predicted Y': 1245.3158647249738, 'Sum Squared Error Y': 128.04879447390718}
+Sim: 710
+person: 0
+{'Real X': 700, 'Predicted X': 699.1486827981606, 'Sum Squared Error X': 0.7247409781476297, 'Real Y': 1076, 'Predicted Y': 1062.7375427864995, 'Sum Squared Error Y': 175.89277133993173}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5121352506371, 'Sum Squared Error X': 2.2865530162194143, 'Real Y': 1184, 'Predicted Y': 1190.2797962980048, 'Sum Squared Error Y': 39.43584154443529}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2521170930443, 'Sum Squared Error X': 5.072031400782138, 'Real Y': 1234, 'Predicted Y': 1246.2532004778595, 'Sum Squared Error Y': 150.14092195061718}
+Sim: 720
+person: 0
+{'Real X': 700, 'Predicted X': 699.2303469593832, 'Sum Squared Error X': 0.5923658029307547, 'Real Y': 1076, 'Predicted Y': 1062.954549536341, 'Sum Squared Error Y': 170.18377779978366}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3340676370225, 'Sum Squared Error X': 1.7797364601507581, 'Real Y': 1184, 'Predicted Y': 1191.8234586734593, 'Sum Squared Error Y': 61.20650561532554}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4776018274449, 'Sum Squared Error X': 2.18330716046855, 'Real Y': 1234, 'Predicted Y': 1246.265362899526, 'Sum Squared Error Y': 150.43912705707015}
+Sim: 730
+person: 0
+{'Real X': 700, 'Predicted X': 699.4515895657419, 'Sum Squared Error X': 0.30075400440319117, 'Real Y': 1076, 'Predicted Y': 1062.921589600995, 'Sum Squared Error Y': 171.04481856480086}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9616470645449, 'Sum Squared Error X': 0.9247650767477791, 'Real Y': 1184, 'Predicted Y': 1190.7608849004193, 'Sum Squared Error Y': 45.70956463671825}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7122009110997, 'Sum Squared Error X': 2.931631959970545, 'Real Y': 1234, 'Predicted Y': 1245.5971529243186, 'Sum Squared Error Y': 134.49395595003162}
+Sim: 740
+person: 0
+{'Real X': 700, 'Predicted X': 698.7105059096128, 'Sum Squared Error X': 1.6627950091434238, 'Real Y': 1076, 'Predicted Y': 1063.8925857408522, 'Sum Squared Error Y': 146.58948004261654}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9056930589657, 'Sum Squared Error X': 0.820279917058562, 'Real Y': 1184, 'Predicted Y': 1190.7333051869132, 'Sum Squared Error Y': 45.337398740112}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7166063373555, 'Sum Squared Error X': 2.946737317449164, 'Real Y': 1234, 'Predicted Y': 1245.1750402395191, 'Sum Squared Error Y': 124.88152435487218}
+Sim: 750
+person: 0
+{'Real X': 700, 'Predicted X': 699.1836369321152, 'Sum Squared Error X': 0.6664486586063187, 'Real Y': 1076, 'Predicted Y': 1063.3273167064456, 'Sum Squared Error Y': 160.5969018587335}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0382762491887, 'Sum Squared Error X': 1.078017569629351, 'Real Y': 1184, 'Predicted Y': 1190.7521346595674, 'Sum Squared Error Y': 45.59132246093199}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2129541320778, 'Sum Squared Error X': 1.4712577265246374, 'Real Y': 1234, 'Predicted Y': 1246.0176760183367, 'Sum Squared Error Y': 144.4245368817054}
+Sim: 760
+person: 0
+{'Real X': 700, 'Predicted X': 698.6458786541889, 'Sum Squared Error X': 1.8336446191812885, 'Real Y': 1076, 'Predicted Y': 1063.3660329996678, 'Sum Squared Error Y': 159.61712216548244}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7433186262455, 'Sum Squared Error X': 0.5525225801234502, 'Real Y': 1184, 'Predicted Y': 1190.8063347953794, 'Sum Squared Error Y': 46.326193346791946}
+person: 2
+{'Real X': 733, 'Predicted X': 735.167485893928, 'Sum Squared Error X': 4.697995100376689, 'Real Y': 1234, 'Predicted Y': 1246.6433540397943, 'Sum Squared Error Y': 159.85440137558294}
+Sim: 770
+person: 0
+{'Real X': 700, 'Predicted X': 699.7391933001707, 'Sum Squared Error X': 0.06802013467587419, 'Real Y': 1076, 'Predicted Y': 1063.191519954013, 'Sum Squared Error Y': 164.05716108844524}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8278872387561, 'Sum Squared Error X': 0.6853972800952789, 'Real Y': 1184, 'Predicted Y': 1190.6622777955668, 'Sum Squared Error Y': 44.38594542530178}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9784484512686, 'Sum Squared Error X': 3.9142582743271412, 'Real Y': 1234, 'Predicted Y': 1245.720077867356, 'Sum Squared Error Y': 137.36022521688656}
+Sim: 780
+person: 0
+{'Real X': 700, 'Predicted X': 698.9392447445475, 'Sum Squared Error X': 1.1252017119700504, 'Real Y': 1076, 'Predicted Y': 1062.9963984992637, 'Sum Squared Error Y': 169.0936519899512}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6342185205344, 'Sum Squared Error X': 0.402233131788884, 'Real Y': 1184, 'Predicted Y': 1190.5483350426523, 'Sum Squared Error Y': 42.88069183082807}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5349182022067, 'Sum Squared Error X': 2.3559738874653076, 'Real Y': 1234, 'Predicted Y': 1246.1507834989584, 'Sum Squared Error Y': 147.6415396385595}
+Sim: 790
+person: 0
+{'Real X': 700, 'Predicted X': 699.4883971374095, 'Sum Squared Error X': 0.26173748901080157, 'Real Y': 1076, 'Predicted Y': 1063.612591457025, 'Sum Squared Error Y': 153.44789041056956}
+person: 1
+{'Real X': 734, 'Predicted X': 734.631295720065, 'Sum Squared Error X': 0.39853428617245557, 'Real Y': 1184, 'Predicted Y': 1191.4831388856526, 'Sum Squared Error Y': 55.997367581965726}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1892876860047, 'Sum Squared Error X': 4.792980572091893, 'Real Y': 1234, 'Predicted Y': 1244.8570841804635, 'Sum Squared Error Y': 117.87627690167115}
+Sim: 800
+person: 0
+{'Real X': 700, 'Predicted X': 699.129599015487, 'Sum Squared Error X': 0.7575978738412447, 'Real Y': 1076, 'Predicted Y': 1063.094505069609, 'Sum Squared Error Y': 166.55179939834488}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2703465904997, 'Sum Squared Error X': 1.6137804599941736, 'Real Y': 1184, 'Predicted Y': 1189.7970831581606, 'Sum Squared Error Y': 33.606173142629316}
+person: 2
+{'Real X': 733, 'Predicted X': 734.65317449077, 'Sum Squared Error X': 2.7329858969325507, 'Real Y': 1234, 'Predicted Y': 1245.5191710218064, 'Sum Squared Error Y': 132.69130102962464}
+Sim: 810
+person: 0
+{'Real X': 700, 'Predicted X': 698.6822058965597, 'Sum Squared Error X': 1.736581299062003, 'Real Y': 1076, 'Predicted Y': 1062.528148763196, 'Sum Squared Error Y': 181.49077574657784}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1502503373891, 'Sum Squared Error X': 1.3230758386638273, 'Real Y': 1184, 'Predicted Y': 1190.4961471043835, 'Sum Squared Error Y': 42.19992720178953}
+person: 2
+{'Real X': 733, 'Predicted X': 735.0185474589307, 'Sum Squared Error X': 4.074533843955577, 'Real Y': 1234, 'Predicted Y': 1246.2467116511305, 'Sum Squared Error Y': 149.9819462659344}
+Sim: 820
+person: 0
+{'Real X': 700, 'Predicted X': 698.5953474714216, 'Sum Squared Error X': 1.973048726041601, 'Real Y': 1076, 'Predicted Y': 1063.0440328061509, 'Sum Squared Error Y': 167.85708592809462}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9713456501909, 'Sum Squared Error X': 0.943512372144723, 'Real Y': 1184, 'Predicted Y': 1190.5600393914938, 'Sum Squared Error Y': 43.03411681795001}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9576040779796, 'Sum Squared Error X': 3.832213726122233, 'Real Y': 1234, 'Predicted Y': 1246.005056642855, 'Sum Squared Error Y': 144.12138499815515}
+Sim: 830
+person: 0
+{'Real X': 700, 'Predicted X': 698.806604480905, 'Sum Squared Error X': 1.4241928649960724, 'Real Y': 1076, 'Predicted Y': 1062.5191270581845, 'Sum Squared Error Y': 181.73393527337345}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8261977884406, 'Sum Squared Error X': 0.6826027856241303, 'Real Y': 1184, 'Predicted Y': 1191.8364132730087, 'Sum Squared Error Y': 61.40937298538696}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5755930099396, 'Sum Squared Error X': 2.4824933329703796, 'Real Y': 1234, 'Predicted Y': 1246.1272124207794, 'Sum Squared Error Y': 147.0692810987065}
+Sim: 840
+person: 0
+{'Real X': 700, 'Predicted X': 698.2894696247018, 'Sum Squared Error X': 2.925914164817673, 'Real Y': 1076, 'Predicted Y': 1063.6031359771923, 'Sum Squared Error Y': 153.68223759998332}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1017304982153, 'Sum Squared Error X': 1.213810090697647, 'Real Y': 1184, 'Predicted Y': 1190.9487159038258, 'Sum Squared Error Y': 48.2846527120818}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4036137984538, 'Sum Squared Error X': 1.9701316952097974, 'Real Y': 1234, 'Predicted Y': 1245.8197291207732, 'Sum Squared Error Y': 139.70599648845442}
+Sim: 850
+person: 0
+{'Real X': 700, 'Predicted X': 699.2654885911122, 'Sum Squared Error X': 0.5395070097863167, 'Real Y': 1076, 'Predicted Y': 1064.2334527292646, 'Sum Squared Error Y': 138.45163467445005}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3809077353488, 'Sum Squared Error X': 1.9069061735462673, 'Real Y': 1184, 'Predicted Y': 1190.7293970977316, 'Sum Squared Error Y': 45.28478529895895}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9407435033825, 'Sum Squared Error X': 3.7664853459212404, 'Real Y': 1234, 'Predicted Y': 1244.9166542436142, 'Sum Squared Error Y': 119.17333987461939}
+Sim: 860
+person: 0
+{'Real X': 700, 'Predicted X': 699.015669678444, 'Sum Squared Error X': 0.968906181934429, 'Real Y': 1076, 'Predicted Y': 1063.1362723876668, 'Sum Squared Error Y': 165.47548808430233}
+person: 1
+{'Real X': 734, 'Predicted X': 734.4311767705717, 'Sum Squared Error X': 0.18591340748064925, 'Real Y': 1184, 'Predicted Y': 1190.4963317849947, 'Sum Squared Error Y': 42.20232666073254}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5639489385371, 'Sum Squared Error X': 2.4459362823513953, 'Real Y': 1234, 'Predicted Y': 1244.932936821904, 'Sum Squared Error Y': 119.52910755174264}
+Sim: 870
+person: 0
+{'Real X': 700, 'Predicted X': 699.0568191703878, 'Sum Squared Error X': 0.8895900773479096, 'Real Y': 1076, 'Predicted Y': 1063.094887332154, 'Sum Squared Error Y': 166.54193296979852}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3074951227557, 'Sum Squared Error X': 1.7095434960298226, 'Real Y': 1184, 'Predicted Y': 1191.2153643627114, 'Sum Squared Error Y': 52.06148288668566}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5649221594012, 'Sum Squared Error X': 2.4489813649850674, 'Real Y': 1234, 'Predicted Y': 1246.0633408643153, 'Sum Squared Error Y': 145.52419280865823}
+Sim: 880
+person: 0
+{'Real X': 700, 'Predicted X': 699.3808597625496, 'Sum Squared Error X': 0.3833346336301845, 'Real Y': 1076, 'Predicted Y': 1062.9507543815457, 'Sum Squared Error Y': 170.2828112107482}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0985274481466, 'Sum Squared Error X': 1.2067625543314138, 'Real Y': 1184, 'Predicted Y': 1190.79653326782, 'Sum Squared Error Y': 46.19286446058395}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6708921560737, 'Sum Squared Error X': 2.791880597228636, 'Real Y': 1234, 'Predicted Y': 1245.614937538976, 'Sum Squared Error Y': 134.9067740343124}
+Sim: 890
+person: 0
+{'Real X': 700, 'Predicted X': 698.7824588106173, 'Sum Squared Error X': 1.4824065478434407, 'Real Y': 1076, 'Predicted Y': 1062.8952631784286, 'Sum Squared Error Y': 171.73412716264798}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0282375782102, 'Sum Squared Error X': 1.0572725172436255, 'Real Y': 1184, 'Predicted Y': 1190.4152604618862, 'Sum Squared Error Y': 41.15556679384023}
+person: 2
+{'Real X': 733, 'Predicted X': 734.1685402886412, 'Sum Squared Error X': 1.365486406177717, 'Real Y': 1234, 'Predicted Y': 1246.0736659407867, 'Sum Squared Error Y': 145.77340924971202}
+Sim: 900
+person: 0
+{'Real X': 700, 'Predicted X': 698.73803704244, 'Sum Squared Error X': 1.5925505062534429, 'Real Y': 1076, 'Predicted Y': 1062.5680666200112, 'Sum Squared Error Y': 180.41683432445674}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0715230258297, 'Sum Squared Error X': 1.1481615948832782, 'Real Y': 1184, 'Predicted Y': 1190.4984123762272, 'Sum Squared Error Y': 42.229363411502575}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7460830597417, 'Sum Squared Error X': 3.048806051517111, 'Real Y': 1234, 'Predicted Y': 1245.8179459753308, 'Sum Squared Error Y': 139.66384707583646}
+Sim: 910
+person: 0
+{'Real X': 700, 'Predicted X': 698.510354374851, 'Sum Squared Error X': 2.2190440885256253, 'Real Y': 1076, 'Predicted Y': 1063.0828362022082, 'Sum Squared Error Y': 166.85312057898236}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9464343235662, 'Sum Squared Error X': 0.8957379288242535, 'Real Y': 1184, 'Predicted Y': 1190.7070747809632, 'Sum Squared Error Y': 44.984852117433086}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1721944266969, 'Sum Squared Error X': 4.718428627373218, 'Real Y': 1234, 'Predicted Y': 1245.86841468488, 'Sum Squared Error Y': 140.85926713227542}
+Sim: 920
+person: 0
+{'Real X': 700, 'Predicted X': 699.0947869849319, 'Sum Squared Error X': 0.8194106026486021, 'Real Y': 1076, 'Predicted Y': 1063.193391024001, 'Sum Squared Error Y': 164.00923346414064}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6167098990168, 'Sum Squared Error X': 0.3803310995452731, 'Real Y': 1184, 'Predicted Y': 1190.6870394614532, 'Sum Squared Error Y': 44.71649675903225}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9607360454729, 'Sum Squared Error X': 3.844485840016758, 'Real Y': 1234, 'Predicted Y': 1245.1313981284015, 'Sum Squared Error Y': 123.90802429298137}
+Sim: 930
+person: 0
+{'Real X': 700, 'Predicted X': 698.5505067903332, 'Sum Squared Error X': 2.101030564870156, 'Real Y': 1076, 'Predicted Y': 1063.2639036448766, 'Sum Squared Error Y': 162.2081503669885}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8100467033313, 'Sum Squared Error X': 0.6561756615778994, 'Real Y': 1184, 'Predicted Y': 1189.9274545005223, 'Sum Squared Error Y': 35.1347168557626}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4558933105152, 'Sum Squared Error X': 2.11962533160289, 'Real Y': 1234, 'Predicted Y': 1246.666160433967, 'Sum Squared Error Y': 160.43162013899058}
+Sim: 940
+person: 0
+{'Real X': 700, 'Predicted X': 699.1724538640624, 'Sum Squared Error X': 0.6848326071052685, 'Real Y': 1076, 'Predicted Y': 1063.130861346714, 'Sum Squared Error Y': 165.6147296774991}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1485102853328, 'Sum Squared Error X': 1.3190758755152399, 'Real Y': 1184, 'Predicted Y': 1191.6199289276633, 'Sum Squared Error Y': 58.0633168626399}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6393174875493, 'Sum Squared Error X': 2.687361824984969, 'Real Y': 1234, 'Predicted Y': 1244.927979772046, 'Sum Squared Error Y': 119.42074189824658}
+Sim: 950
+person: 0
+{'Real X': 700, 'Predicted X': 699.1228136915906, 'Sum Squared Error X': 0.7694558196608476, 'Real Y': 1076, 'Predicted Y': 1063.3515342949277, 'Sum Squared Error Y': 159.98368469239114}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7481786594598, 'Sum Squared Error X': 0.5597713064710154, 'Real Y': 1184, 'Predicted Y': 1190.5571795318651, 'Sum Squared Error Y': 42.99660341311102}
+person: 2
+{'Real X': 733, 'Predicted X': 735.3810049919196, 'Sum Squared Error X': 5.669184771545833, 'Real Y': 1234, 'Predicted Y': 1245.8516559682666, 'Sum Squared Error Y': 140.4617491901503}
+Sim: 960
+person: 0
+{'Real X': 700, 'Predicted X': 698.7738204199512, 'Sum Squared Error X': 1.5035163625285999, 'Real Y': 1076, 'Predicted Y': 1063.5005974781423, 'Sum Squared Error Y': 156.2350634034238}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3145058460923, 'Sum Squared Error X': 1.7279256194108026, 'Real Y': 1184, 'Predicted Y': 1190.8746640588265, 'Sum Squared Error Y': 47.261005921720994}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2665818494845, 'Sum Squared Error X': 5.137393280412621, 'Real Y': 1234, 'Predicted Y': 1245.8987495095703, 'Sum Squared Error Y': 141.58023989149896}
+Sim: 970
+person: 0
+{'Real X': 700, 'Predicted X': 698.9647716869127, 'Sum Squared Error X': 1.0716976602174926, 'Real Y': 1076, 'Predicted Y': 1063.7357788980657, 'Sum Squared Error Y': 150.41111923712944}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8168599480391, 'Sum Squared Error X': 0.6672601747104566, 'Real Y': 1184, 'Predicted Y': 1191.8746362325592, 'Sum Squared Error Y': 62.009895795133666}
+person: 2
+{'Real X': 733, 'Predicted X': 734.0403596751606, 'Sum Squared Error X': 1.0823482537003317, 'Real Y': 1234, 'Predicted Y': 1245.8650904704919, 'Sum Squared Error Y': 140.78037187295652}
+Sim: 980
+person: 0
+{'Real X': 700, 'Predicted X': 697.9313583433958, 'Sum Squared Error X': 4.2792783034381685, 'Real Y': 1076, 'Predicted Y': 1063.5134292887813, 'Sum Squared Error Y': 155.91444812626582}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3118872431103, 'Sum Squared Error X': 1.7210481386354837, 'Real Y': 1184, 'Predicted Y': 1190.512528871317, 'Sum Squared Error Y': 42.41303229973806}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6645023939955, 'Sum Squared Error X': 2.770568219616626, 'Real Y': 1234, 'Predicted Y': 1245.8196572826619, 'Sum Squared Error Y': 139.70429827958165}
+Sim: 990
+person: 0
+{'Real X': 700, 'Predicted X': 699.0137238454397, 'Sum Squared Error X': 0.9727406530542542, 'Real Y': 1076, 'Predicted Y': 1063.5792525334348, 'Sum Squared Error Y': 154.27496762818626}
+person: 1
+{'Real X': 734, 'Predicted X': 734.4749834639089, 'Sum Squared Error X': 0.22560929098686916, 'Real Y': 1184, 'Predicted Y': 1190.5287029358246, 'Sum Squared Error Y': 42.62396202424527}
+person: 2
+{'Real X': 733, 'Predicted X': 734.670229992502, 'Sum Squared Error X': 2.7896682278530935, 'Real Y': 1234, 'Predicted Y': 1245.8819456908163, 'Sum Squared Error Y': 141.18063339950893}
+Sim: 1000
+person: 0
+{'Real X': 700, 'Predicted X': 699.056575871012, 'Sum Squared Error X': 0.890049087156765, 'Real Y': 1076, 'Predicted Y': 1063.708108246487, 'Sum Squared Error Y': 151.09060288008158}
+person: 1
+{'Real X': 734, 'Predicted X': 734.4858381540298, 'Sum Squared Error X': 0.23603871191109038, 'Real Y': 1184, 'Predicted Y': 1191.0141708196084, 'Sum Squared Error Y': 49.19859228664531}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9418268440213, 'Sum Squared Error X': 3.770691492161749, 'Real Y': 1234, 'Predicted Y': 1246.0950114428613, 'Sum Squared Error Y': 146.28930180294526}
+Sim: 1010
+person: 0
+{'Real X': 700, 'Predicted X': 698.806333295418, 'Sum Squared Error X': 1.42484020162772, 'Real Y': 1076, 'Predicted Y': 1063.0084370917575, 'Sum Squared Error Y': 168.78070679882197}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0339569967996, 'Sum Squared Error X': 1.0690670712308243, 'Real Y': 1184, 'Predicted Y': 1190.3169288304398, 'Sum Squared Error Y': 39.90358984884144}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1227727450286, 'Sum Squared Error X': 4.506164127036069, 'Real Y': 1234, 'Predicted Y': 1245.7847618906007, 'Sum Squared Error Y': 138.88061281815573}
+Sim: 1020
+person: 0
+{'Real X': 700, 'Predicted X': 698.3732796678541, 'Sum Squared Error X': 2.646219039016708, 'Real Y': 1076, 'Predicted Y': 1063.193669663628, 'Sum Squared Error Y': 164.00209668428067}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2360840265831, 'Sum Squared Error X': 1.527903720773785, 'Real Y': 1184, 'Predicted Y': 1191.1415749844218, 'Sum Squared Error Y': 51.00209325811956}
+person: 2
+{'Real X': 733, 'Predicted X': 735.369086502415, 'Sum Squared Error X': 5.612570855925079, 'Real Y': 1234, 'Predicted Y': 1245.80808925687, 'Sum Squared Error Y': 139.43097189821017}
+Sim: 1030
+person: 0
+{'Real X': 700, 'Predicted X': 698.1909715241459, 'Sum Squared Error X': 3.272584026451081, 'Real Y': 1076, 'Predicted Y': 1063.4142761256646, 'Sum Squared Error Y': 158.40044544101536}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5172900043424, 'Sum Squared Error X': 2.302168957277315, 'Real Y': 1184, 'Predicted Y': 1190.6937032317978, 'Sum Squared Error Y': 44.80566295538067}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5022253436007, 'Sum Squared Error X': 2.256680982956196, 'Real Y': 1234, 'Predicted Y': 1245.964025637612, 'Sum Squared Error Y': 143.13790945743577}
+Sim: 1040
+person: 0
+{'Real X': 700, 'Predicted X': 698.0500730349477, 'Sum Squared Error X': 3.8022151690381807, 'Real Y': 1076, 'Predicted Y': 1063.6495665142907, 'Sum Squared Error Y': 152.53320728493068}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2949280122973, 'Sum Squared Error X': 1.6768385570322493, 'Real Y': 1184, 'Predicted Y': 1191.2665711032964, 'Sum Squared Error Y': 52.80305559926267}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6439209910361, 'Sum Squared Error X': 2.7024762247691507, 'Real Y': 1234, 'Predicted Y': 1246.174700176855, 'Sum Squared Error Y': 148.22332439631103}
+Sim: 1050
+person: 0
+{'Real X': 700, 'Predicted X': 698.7992532816542, 'Sum Squared Error X': 1.4417926816183047, 'Real Y': 1076, 'Predicted Y': 1062.748487511592, 'Sum Squared Error Y': 175.60258323043385}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6656712994115, 'Sum Squared Error X': 0.44311827886025124, 'Real Y': 1184, 'Predicted Y': 1191.3626278316208, 'Sum Squared Error Y': 54.208288586956975}
+person: 2
+{'Real X': 733, 'Predicted X': 733.9960005012026, 'Sum Squared Error X': 0.992016998395862, 'Real Y': 1234, 'Predicted Y': 1246.2828091567676, 'Sum Squared Error Y': 150.86740078157396}
+Sim: 1060
+person: 0
+{'Real X': 700, 'Predicted X': 699.0412087155232, 'Sum Squared Error X': 0.9192807271886227, 'Real Y': 1076, 'Predicted Y': 1063.302562458632, 'Sum Squared Error Y': 161.22492011693865}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2551649370203, 'Sum Squared Error X': 1.5754390191250582, 'Real Y': 1184, 'Predicted Y': 1191.9675816346103, 'Sum Squared Error Y': 63.48235710417885}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7118603882052, 'Sum Squared Error X': 2.930465988706043, 'Real Y': 1234, 'Predicted Y': 1245.741935935656, 'Sum Squared Error Y': 137.87305951705213}
+Sim: 1070
+person: 0
+{'Real X': 700, 'Predicted X': 699.1232316850092, 'Sum Squared Error X': 0.7687226781718781, 'Real Y': 1076, 'Predicted Y': 1063.3412318654575, 'Sum Squared Error Y': 160.24441068410783}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0074272468427, 'Sum Squared Error X': 1.014909657680996, 'Real Y': 1184, 'Predicted Y': 1190.1579709813013, 'Sum Squared Error Y': 37.92060660654929}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1200987776743, 'Sum Squared Error X': 4.494818827096244, 'Real Y': 1234, 'Predicted Y': 1246.0792600402146, 'Sum Squared Error Y': 145.90852311912641}
+Sim: 1080
+person: 0
+{'Real X': 700, 'Predicted X': 699.3034015023735, 'Sum Squared Error X': 0.48524946689549175, 'Real Y': 1076, 'Predicted Y': 1063.4617715926086, 'Sum Squared Error Y': 157.20717159591777}
+person: 1
+{'Real X': 734, 'Predicted X': 735.566324726245, 'Sum Squared Error X': 2.4533731480466523, 'Real Y': 1184, 'Predicted Y': 1190.1344057440415, 'Sum Squared Error Y': 37.630933832529195}
+person: 2
+{'Real X': 733, 'Predicted X': 734.806134051819, 'Sum Squared Error X': 3.262120213139967, 'Real Y': 1234, 'Predicted Y': 1246.0954141818863, 'Sum Squared Error Y': 146.29904423137688}
+Sim: 1090
+person: 0
+{'Real X': 700, 'Predicted X': 699.0668704985367, 'Sum Squared Error X': 0.8707306665011971, 'Real Y': 1076, 'Predicted Y': 1062.9727930046063, 'Sum Squared Error Y': 169.70812210083523}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9629661127449, 'Sum Squared Error X': 0.9273037342949847, 'Real Y': 1184, 'Predicted Y': 1190.756654434827, 'Sum Squared Error Y': 45.65237915166658}
+person: 2
+{'Real X': 733, 'Predicted X': 735.3370149632983, 'Sum Squared Error X': 5.4616389386802275, 'Real Y': 1234, 'Predicted Y': 1246.5655885741073, 'Sum Squared Error Y': 157.8940162137365}
+Sim: 1100
+person: 0
+{'Real X': 700, 'Predicted X': 698.5266452149226, 'Sum Squared Error X': 2.170774322710443, 'Real Y': 1076, 'Predicted Y': 1063.526395989089, 'Sum Squared Error Y': 155.59079702101508}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3130695124605, 'Sum Squared Error X': 1.7241515445532956, 'Real Y': 1184, 'Predicted Y': 1191.4082357914317, 'Sum Squared Error Y': 54.88195754144977}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4776401767226, 'Sum Squared Error X': 2.1834204918648443, 'Real Y': 1234, 'Predicted Y': 1245.750289635168, 'Sum Squared Error Y': 138.0693065103359}
+Sim: 1110
+person: 0
+{'Real X': 700, 'Predicted X': 698.6833840163754, 'Sum Squared Error X': 1.733477648335813, 'Real Y': 1076, 'Predicted Y': 1062.7461773049235, 'Sum Squared Error Y': 175.6638160325236}
+person: 1
+{'Real X': 734, 'Predicted X': 735.16956752826, 'Sum Squared Error X': 1.3678882031602475, 'Real Y': 1184, 'Predicted Y': 1191.5772353574916, 'Sum Squared Error Y': 57.41449566282154}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8264151740427, 'Sum Squared Error X': 3.3357923879735076, 'Real Y': 1234, 'Predicted Y': 1246.6134705954764, 'Sum Squared Error Y': 159.09964046294849}
+Sim: 1120
+person: 0
+{'Real X': 700, 'Predicted X': 699.0126707107629, 'Sum Squared Error X': 0.9748191253854283, 'Real Y': 1076, 'Predicted Y': 1063.461313202573, 'Sum Squared Error Y': 157.21866660397242}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4171052960774, 'Sum Squared Error X': 2.00818742017048, 'Real Y': 1184, 'Predicted Y': 1190.5121727916035, 'Sum Squared Error Y': 42.40839446770042}
+person: 2
+{'Real X': 733, 'Predicted X': 734.819942221669, 'Sum Squared Error X': 3.3121896902133234, 'Real Y': 1234, 'Predicted Y': 1245.6798647326625, 'Sum Squared Error Y': 136.41924017329345}
+Sim: 1130
+person: 0
+{'Real X': 700, 'Predicted X': 699.2891825961426, 'Sum Squared Error X': 0.5052613816265609, 'Real Y': 1076, 'Predicted Y': 1063.9805296465877, 'Sum Squared Error Y': 144.4676675765576}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2965973397845, 'Sum Squared Error X': 1.681164661536273, 'Real Y': 1184, 'Predicted Y': 1191.3617913356484, 'Sum Squared Error Y': 54.19597166962751}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2868224566631, 'Sum Squared Error X': 1.6559120349724996, 'Real Y': 1234, 'Predicted Y': 1246.4733716058909, 'Sum Squared Error Y': 155.58499921864436}
+Sim: 1140
+person: 0
+{'Real X': 700, 'Predicted X': 699.314938837912, 'Sum Squared Error X': 0.46930879580136714, 'Real Y': 1076, 'Predicted Y': 1063.738056260036, 'Sum Squared Error Y': 150.3552642820412}
+person: 1
+{'Real X': 734, 'Predicted X': 734.3926391147147, 'Sum Squared Error X': 0.15416547440395234, 'Real Y': 1184, 'Predicted Y': 1189.9319738039558, 'Sum Squared Error Y': 35.1883132108175}
+person: 2
+{'Real X': 733, 'Predicted X': 734.583168798823, 'Sum Squared Error X': 2.5064234455665124, 'Real Y': 1234, 'Predicted Y': 1245.2915035261026, 'Sum Squared Error Y': 127.49805187998717}
+Sim: 1150
+person: 0
+{'Real X': 700, 'Predicted X': 698.470770973796, 'Sum Squared Error X': 2.338541414584855, 'Real Y': 1076, 'Predicted Y': 1063.289436332519, 'Sum Squared Error Y': 161.5584287450876}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0237895791284, 'Sum Squared Error X': 1.0481451023320032, 'Real Y': 1184, 'Predicted Y': 1190.4284814985665, 'Sum Squared Error Y': 41.32537437741177}
+person: 2
+{'Real X': 733, 'Predicted X': 734.3995014573809, 'Sum Squared Error X': 1.9586043292112436, 'Real Y': 1234, 'Predicted Y': 1245.6423696469146, 'Sum Squared Error Y': 135.5447709953991}
+Sim: 1160
+person: 0
+{'Real X': 700, 'Predicted X': 699.3071250659068, 'Sum Squared Error X': 0.4800756742946524, 'Real Y': 1076, 'Predicted Y': 1062.9033187647156, 'Sum Squared Error Y': 171.52305937865182}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0885607509708, 'Sum Squared Error X': 1.184964508554173, 'Real Y': 1184, 'Predicted Y': 1191.4979403856787, 'Sum Squared Error Y': 56.2191100271917}
+person: 2
+{'Real X': 733, 'Predicted X': 735.0905851097575, 'Sum Squared Error X': 4.37054610113983, 'Real Y': 1234, 'Predicted Y': 1246.2448125652436, 'Sum Squared Error Y': 149.93543475794735}
+Sim: 1170
+person: 0
+{'Real X': 700, 'Predicted X': 698.7714017030416, 'Sum Squared Error X': 1.509453775288965, 'Real Y': 1076, 'Predicted Y': 1063.4744605480942, 'Sum Squared Error Y': 156.88913856124972}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2479173496915, 'Sum Squared Error X': 1.5572977116611415, 'Real Y': 1184, 'Predicted Y': 1190.7733081646315, 'Sum Squared Error Y': 45.87770349306434}
+person: 2
+{'Real X': 733, 'Predicted X': 735.4745197366412, 'Sum Squared Error X': 6.123247927027038, 'Real Y': 1234, 'Predicted Y': 1245.4998563488307, 'Sum Squared Error Y': 132.24669604374154}
+Sim: 1180
+person: 0
+{'Real X': 700, 'Predicted X': 698.9033967675919, 'Sum Squared Error X': 1.2025386493279866, 'Real Y': 1076, 'Predicted Y': 1063.3926054030271, 'Sum Squared Error Y': 158.946398523781}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3472386607673, 'Sum Squared Error X': 1.815052009066038, 'Real Y': 1184, 'Predicted Y': 1190.8476734077576, 'Sum Squared Error Y': 46.89063109931074}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7605327952749, 'Sum Squared Error X': 3.0994757232384957, 'Real Y': 1234, 'Predicted Y': 1245.1199930405494, 'Sum Squared Error Y': 123.65424522186684}
+Sim: 1190
+person: 0
+{'Real X': 700, 'Predicted X': 699.1487735671308, 'Sum Squared Error X': 0.7245864400152658, 'Real Y': 1076, 'Predicted Y': 1063.3689589570254, 'Sum Squared Error Y': 159.54319782930963}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0109901526492, 'Sum Squared Error X': 1.022101088753738, 'Real Y': 1184, 'Predicted Y': 1190.485439642918, 'Sum Squared Error Y': 42.060927361932116}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1342634483526, 'Sum Squared Error X': 4.555080466973985, 'Real Y': 1234, 'Predicted Y': 1245.1992811071157, 'Sum Squared Error Y': 125.42389731619791}
+Sim: 1200
+person: 0
+{'Real X': 700, 'Predicted X': 698.8649246796505, 'Sum Squared Error X': 1.2883959828665852, 'Real Y': 1076, 'Predicted Y': 1062.971443053622, 'Sum Squared Error Y': 169.74329610501712}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9600600200104, 'Sum Squared Error X': 0.9217152420222927, 'Real Y': 1184, 'Predicted Y': 1190.9315567267167, 'Sum Squared Error Y': 48.04647865569202}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2156808686847, 'Sum Squared Error X': 1.477879974485918, 'Real Y': 1234, 'Predicted Y': 1246.106049991135, 'Sum Squared Error Y': 146.5564463878603}
+Sim: 1210
+person: 0
+{'Real X': 700, 'Predicted X': 699.373986424036, 'Sum Squared Error X': 0.39189299729117527, 'Real Y': 1076, 'Predicted Y': 1063.296490654736, 'Sum Squared Error Y': 161.3791496852075}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9816748153928, 'Sum Squared Error X': 0.9636854431765025, 'Real Y': 1184, 'Predicted Y': 1191.3171458023467, 'Sum Squared Error Y': 53.540622692799325}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9365174646097, 'Sum Squared Error X': 3.750099890738244, 'Real Y': 1234, 'Predicted Y': 1246.1916086937074, 'Sum Squared Error Y': 148.63532254048172}
+Sim: 1220
+person: 0
+{'Real X': 700, 'Predicted X': 698.9954364436405, 'Sum Squared Error X': 1.009147938765589, 'Real Y': 1076, 'Predicted Y': 1063.409344114258, 'Sum Squared Error Y': 158.5246156331717}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3522100066111, 'Sum Squared Error X': 1.8284719019792741, 'Real Y': 1184, 'Predicted Y': 1190.7018474482531, 'Sum Squared Error Y': 44.91475921965722}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5580277492128, 'Sum Squared Error X': 2.427450467317052, 'Real Y': 1234, 'Predicted Y': 1246.386086055671, 'Sum Squared Error Y': 153.41512777848902}
+Sim: 1230
+person: 0
+{'Real X': 700, 'Predicted X': 699.5003993060002, 'Sum Squared Error X': 0.24960085344509145, 'Real Y': 1076, 'Predicted Y': 1063.8955929235967, 'Sum Squared Error Y': 146.51667067128173}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8491746443126, 'Sum Squared Error X': 0.7210975765434267, 'Real Y': 1184, 'Predicted Y': 1191.2350953263228, 'Sum Squared Error Y': 52.346604380978526}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6646127014408, 'Sum Squared Error X': 2.770935445797951, 'Real Y': 1234, 'Predicted Y': 1245.9305215389995, 'Sum Squared Error Y': 142.33734419253167}
+Sim: 1240
+person: 0
+{'Real X': 700, 'Predicted X': 699.1570044271713, 'Sum Squared Error X': 0.7106415358088333, 'Real Y': 1076, 'Predicted Y': 1062.8348877767514, 'Sum Squared Error Y': 173.32017985072892}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9432475865426, 'Sum Squared Error X': 0.889716009518461, 'Real Y': 1184, 'Predicted Y': 1191.5168130905422, 'Sum Squared Error Y': 56.50247903814659}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6898636295009, 'Sum Squared Error X': 2.855639086309974, 'Real Y': 1234, 'Predicted Y': 1245.6176030100833, 'Sum Squared Error Y': 134.96869969989558}
+Sim: 1250
+person: 0
+{'Real X': 700, 'Predicted X': 698.7042940442593, 'Sum Squared Error X': 1.6788539237418858, 'Real Y': 1076, 'Predicted Y': 1064.0313997805076, 'Sum Squared Error Y': 143.2473912140329}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1309275624556, 'Sum Squared Error X': 1.2789971515216607, 'Real Y': 1184, 'Predicted Y': 1190.8926396847146, 'Sum Squared Error Y': 47.50848182330252}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6283379975757, 'Sum Squared Error X': 2.6514846343489284, 'Real Y': 1234, 'Predicted Y': 1245.8306805598331, 'Sum Squared Error Y': 139.96500250881346}
+Sim: 1260
+person: 0
+{'Real X': 700, 'Predicted X': 699.0150252038991, 'Sum Squared Error X': 0.9701753489540378, 'Real Y': 1076, 'Predicted Y': 1062.678693993244, 'Sum Squared Error Y': 177.45719372563357}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2317342857373, 'Sum Squared Error X': 1.5171693506607151, 'Real Y': 1184, 'Predicted Y': 1190.8415570615753, 'Sum Squared Error Y': 46.80690302679029}
+person: 2
+{'Real X': 733, 'Predicted X': 734.3289144142806, 'Sum Squared Error X': 1.7660135204826846, 'Real Y': 1234, 'Predicted Y': 1245.7595922662588, 'Sum Squared Error Y': 138.28801026865327}
+Sim: 1270
+person: 0
+{'Real X': 700, 'Predicted X': 699.4666926433557, 'Sum Squared Error X': 0.284416736650916, 'Real Y': 1076, 'Predicted Y': 1063.0380678762617, 'Sum Squared Error Y': 168.01168438039835}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2681846875539, 'Sum Squared Error X': 1.608292401746214, 'Real Y': 1184, 'Predicted Y': 1190.714844788034, 'Sum Squared Error Y': 45.08914052738795}
+person: 2
+{'Real X': 733, 'Predicted X': 734.475821804655, 'Sum Squared Error X': 2.1780499990950526, 'Real Y': 1234, 'Predicted Y': 1246.6270070185737, 'Sum Squared Error Y': 159.44130624711073}
+Sim: 1280
+person: 0
+{'Real X': 700, 'Predicted X': 698.8204494313666, 'Sum Squared Error X': 1.3913395439634502, 'Real Y': 1076, 'Predicted Y': 1063.1183614555296, 'Sum Squared Error Y': 165.93661159038635}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2334071477793, 'Sum Squared Error X': 1.5212931921930757, 'Real Y': 1184, 'Predicted Y': 1191.583223481349, 'Sum Squared Error Y': 57.5052783680832}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8671893333628, 'Sum Squared Error X': 3.4863960066239312, 'Real Y': 1234, 'Predicted Y': 1246.3449068689108, 'Sum Squared Error Y': 152.39672560208135}
+Sim: 1290
+person: 0
+{'Real X': 700, 'Predicted X': 699.4425371241821, 'Sum Squared Error X': 0.3107648579151843, 'Real Y': 1076, 'Predicted Y': 1063.4722414865905, 'Sum Squared Error Y': 156.9447333703037}
+person: 1
+{'Real X': 734, 'Predicted X': 735.298219751311, 'Sum Squared Error X': 1.6853745226939085, 'Real Y': 1184, 'Predicted Y': 1190.498470065098, 'Sum Squared Error Y': 42.23011318697468}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8929058115086, 'Sum Squared Error X': 3.5830924112431313, 'Real Y': 1234, 'Predicted Y': 1244.7393169539714, 'Sum Squared Error Y': 115.33292863785778}
+Sim: 1300
+person: 0
+{'Real X': 700, 'Predicted X': 698.8693243796796, 'Sum Squared Error X': 1.2784273583869283, 'Real Y': 1076, 'Predicted Y': 1063.3077123154826, 'Sum Squared Error Y': 161.09416666655196}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5009831942843, 'Sum Squared Error X': 2.252950549524035, 'Real Y': 1184, 'Predicted Y': 1190.5784496918689, 'Sum Squared Error Y': 43.27600034844943}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8759802045099, 'Sum Squared Error X': 3.5193017277130623, 'Real Y': 1234, 'Predicted Y': 1245.493224948355, 'Sum Squared Error Y': 132.09421971348897}
+Sim: 1310
+person: 0
+{'Real X': 700, 'Predicted X': 698.9316640116692, 'Sum Squared Error X': 1.1413417839626896, 'Real Y': 1076, 'Predicted Y': 1062.9797549616276, 'Sum Squared Error Y': 169.5267808592617}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9491824067936, 'Sum Squared Error X': 0.9009472413665386, 'Real Y': 1184, 'Predicted Y': 1190.9137034012865, 'Sum Squared Error Y': 47.79929472096068}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5323693086099, 'Sum Squared Error X': 2.3481556979694997, 'Real Y': 1234, 'Predicted Y': 1245.7489319186939, 'Sum Squared Error Y': 138.03740123010363}
+Sim: 1320
+person: 0
+{'Real X': 700, 'Predicted X': 698.5773829458229, 'Sum Squared Error X': 2.023839282835436, 'Real Y': 1076, 'Predicted Y': 1063.473083065389, 'Sum Squared Error Y': 156.92364788664656}
+person: 1
+{'Real X': 734, 'Predicted X': 735.332612439792, 'Sum Squared Error X': 1.7758559146883899, 'Real Y': 1184, 'Predicted Y': 1191.7109900578118, 'Sum Squared Error Y': 59.459367671673064}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6204562480882, 'Sum Squared Error X': 2.6258784519680964, 'Real Y': 1234, 'Predicted Y': 1246.2362242524578, 'Sum Squared Error Y': 149.72518395643544}
+Sim: 1330
+person: 0
+{'Real X': 700, 'Predicted X': 699.057290397199, 'Sum Squared Error X': 0.8887013952131438, 'Real Y': 1076, 'Predicted Y': 1063.1621285677334, 'Sum Squared Error Y': 164.81094291140786}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3178990302008, 'Sum Squared Error X': 1.736857853804225, 'Real Y': 1184, 'Predicted Y': 1191.5646983263562, 'Sum Squared Error Y': 57.22466076877576}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5708891653128, 'Sum Squared Error X': 2.4676927696971207, 'Real Y': 1234, 'Predicted Y': 1246.1056693773278, 'Sum Squared Error Y': 146.5472310731717}
+Sim: 1340
+person: 0
+{'Real X': 700, 'Predicted X': 698.8433806163596, 'Sum Squared Error X': 1.3377683986127409, 'Real Y': 1076, 'Predicted Y': 1063.0526953865365, 'Sum Squared Error Y': 167.632696753814}
+person: 1
+{'Real X': 734, 'Predicted X': 734.89394897082, 'Sum Squared Error X': 0.7991447624301727, 'Real Y': 1184, 'Predicted Y': 1191.1472762742114, 'Sum Squared Error Y': 51.0835581399057}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6812098749896, 'Sum Squared Error X': 2.826466643762468, 'Real Y': 1234, 'Predicted Y': 1245.3459349837233, 'Sum Squared Error Y': 128.73024065487584}
+Sim: 1350
+person: 0
+{'Real X': 700, 'Predicted X': 697.9841779898447, 'Sum Squared Error X': 4.0635383766264, 'Real Y': 1076, 'Predicted Y': 1062.713150315809, 'Sum Squared Error Y': 176.54037453028943}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7869413562464, 'Sum Squared Error X': 0.6192766981709487, 'Real Y': 1184, 'Predicted Y': 1190.3723069179375, 'Sum Squared Error Y': 40.60629545639439}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9442390216188, 'Sum Squared Error X': 3.7800653731853897, 'Real Y': 1234, 'Predicted Y': 1245.5837611140514, 'Sum Squared Error Y': 134.18352154740964}
+Sim: 1360
+person: 0
+{'Real X': 700, 'Predicted X': 699.3047208850296, 'Sum Squared Error X': 0.4834130477140086, 'Real Y': 1076, 'Predicted Y': 1063.1858276768955, 'Sum Squared Error Y': 164.2030123262163}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1369022975233, 'Sum Squared Error X': 1.292546834113773, 'Real Y': 1184, 'Predicted Y': 1191.514745125662, 'Sum Squared Error Y': 56.47139430366233}
+person: 2
+{'Real X': 733, 'Predicted X': 735.2988072209221, 'Sum Squared Error X': 5.284514638963459, 'Real Y': 1234, 'Predicted Y': 1245.5926956299932, 'Sum Squared Error Y': 134.3905919696625}
+Sim: 1370
+person: 0
+{'Real X': 700, 'Predicted X': 698.9292873506854, 'Sum Squared Error X': 1.146425577402291, 'Real Y': 1076, 'Predicted Y': 1062.8301471344857, 'Sum Squared Error Y': 173.4450244992941}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1293986231965, 'Sum Squared Error X': 1.2755412500781353, 'Real Y': 1184, 'Predicted Y': 1191.4667807083774, 'Sum Squared Error Y': 55.75281414699732}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4699628204116, 'Sum Squared Error X': 2.160790693392537, 'Real Y': 1234, 'Predicted Y': 1247.245354137915, 'Sum Squared Error Y': 175.43940623878203}
+Sim: 1380
+person: 0
+{'Real X': 700, 'Predicted X': 698.7275522056384, 'Sum Squared Error X': 1.619123389375692, 'Real Y': 1076, 'Predicted Y': 1063.3415110016062, 'Sum Squared Error Y': 160.23734372245562}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0309021935456, 'Sum Squared Error X': 1.0627593326570421, 'Real Y': 1184, 'Predicted Y': 1190.3317000749475, 'Sum Squared Error Y': 40.09042583909079}
+person: 2
+{'Real X': 733, 'Predicted X': 734.597450682332, 'Sum Squared Error X': 2.5518486824830036, 'Real Y': 1234, 'Predicted Y': 1245.3943973048022, 'Sum Squared Error Y': 129.83228993968294}
+Sim: 1390
+person: 0
+{'Real X': 700, 'Predicted X': 699.0217803933538, 'Sum Squared Error X': 0.9569135988271142, 'Real Y': 1076, 'Predicted Y': 1062.8171326130491, 'Sum Squared Error Y': 173.787992541933}
+person: 1
+{'Real X': 734, 'Predicted X': 735.378856715594, 'Sum Squared Error X': 1.9012458421386653, 'Real Y': 1184, 'Predicted Y': 1190.4167321213654, 'Sum Squared Error Y': 41.17445111736232}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4606845463294, 'Sum Squared Error X': 2.133599343885494, 'Real Y': 1234, 'Predicted Y': 1245.2080072171627, 'Sum Squared Error Y': 125.61942577997186}
+Sim: 1400
+person: 0
+{'Real X': 700, 'Predicted X': 698.3268397151064, 'Sum Squared Error X': 2.799465338945178, 'Real Y': 1076, 'Predicted Y': 1063.6804595960666, 'Sum Squared Error Y': 151.7710757641472}
+person: 1
+{'Real X': 734, 'Predicted X': 735.6537584867559, 'Sum Squared Error X': 2.734917132517227, 'Real Y': 1184, 'Predicted Y': 1190.3366226164967, 'Sum Squared Error Y': 40.152786183897454}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6850838700515, 'Sum Squared Error X': 2.8395076491076443, 'Real Y': 1234, 'Predicted Y': 1245.52385613163, 'Sum Squared Error Y': 132.79926014250762}
+Sim: 1410
+person: 0
+{'Real X': 700, 'Predicted X': 698.9679493314609, 'Sum Squared Error X': 1.0651285824320316, 'Real Y': 1076, 'Predicted Y': 1063.34181331197, 'Sum Squared Error Y': 160.22969022901736}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7940774883796, 'Sum Squared Error X': 0.630559057551208, 'Real Y': 1184, 'Predicted Y': 1191.2144030706659, 'Sum Squared Error Y': 52.04761166603309}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7982202718941, 'Sum Squared Error X': 3.2335961462510276, 'Real Y': 1234, 'Predicted Y': 1246.249294198476, 'Sum Squared Error Y': 150.0452083608187}
+Sim: 1420
+person: 0
+{'Real X': 700, 'Predicted X': 698.7610797223406, 'Sum Squared Error X': 1.534923454395688, 'Real Y': 1076, 'Predicted Y': 1063.3235741314918, 'Sum Squared Error Y': 160.69177279978396}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4344390199896, 'Sum Squared Error X': 2.057615302068593, 'Real Y': 1184, 'Predicted Y': 1191.0499334383744, 'Sum Squared Error Y': 49.70156148550963}
+person: 2
+{'Real X': 733, 'Predicted X': 735.674413511159, 'Sum Squared Error X': 7.152487628669521, 'Real Y': 1234, 'Predicted Y': 1246.0604896998434, 'Sum Squared Error Y': 145.45541180002877}
+Sim: 1430
+person: 0
+{'Real X': 700, 'Predicted X': 698.6192734271397, 'Sum Squared Error X': 1.906405869002659, 'Real Y': 1076, 'Predicted Y': 1063.3626650114652, 'Sum Squared Error Y': 159.70223561244595}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9590133727795, 'Sum Squared Error X': 0.9197066491699298, 'Real Y': 1184, 'Predicted Y': 1190.872704550966, 'Sum Squared Error Y': 47.23406784487002}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6392488647559, 'Sum Squared Error X': 2.687136840603597, 'Real Y': 1234, 'Predicted Y': 1245.9643206320852, 'Sum Squared Error Y': 143.14496818734006}
+Sim: 1440
+person: 0
+{'Real X': 700, 'Predicted X': 699.3960660238951, 'Sum Squared Error X': 0.3647362474939228, 'Real Y': 1076, 'Predicted Y': 1062.6836920021024, 'Sum Squared Error Y': 177.3240586948726}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9446935166575, 'Sum Squared Error X': 0.8924458404146771, 'Real Y': 1184, 'Predicted Y': 1190.9736251061615, 'Sum Squared Error Y': 48.63144712128648}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8640739562106, 'Sum Squared Error X': 3.4747717142227565, 'Real Y': 1234, 'Predicted Y': 1246.4837922064924, 'Sum Squared Error Y': 155.8450678548792}
+Sim: 1450
+person: 0
+{'Real X': 700, 'Predicted X': 699.1612456072892, 'Sum Squared Error X': 0.7035089312917056, 'Real Y': 1076, 'Predicted Y': 1063.2604337851947, 'Sum Squared Error Y': 162.29654734140956}
+person: 1
+{'Real X': 734, 'Predicted X': 734.7292197559999, 'Sum Squared Error X': 0.5317614525405635, 'Real Y': 1184, 'Predicted Y': 1191.2947103606034, 'Sum Squared Error Y': 53.21279924509464}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7916339989061, 'Sum Squared Error X': 3.209952386036442, 'Real Y': 1234, 'Predicted Y': 1245.671388563142, 'Sum Squared Error Y': 136.22131099184293}
+Sim: 1460
+person: 0
+{'Real X': 700, 'Predicted X': 698.9856383750468, 'Sum Squared Error X': 1.0289295061776016, 'Real Y': 1076, 'Predicted Y': 1062.9332846001143, 'Sum Squared Error Y': 170.73905134160884}
+person: 1
+{'Real X': 734, 'Predicted X': 735.155627993828, 'Sum Squared Error X': 1.3354760601190068, 'Real Y': 1184, 'Predicted Y': 1190.1001077294754, 'Sum Squared Error Y': 37.211314311206}
+person: 2
+{'Real X': 733, 'Predicted X': 734.705917759647, 'Sum Squared Error X': 2.9101554026791634, 'Real Y': 1234, 'Predicted Y': 1246.6962910165485, 'Sum Squared Error Y': 161.19580557688906}
+Sim: 1470
+person: 0
+{'Real X': 700, 'Predicted X': 698.9091073384511, 'Sum Squared Error X': 1.1900467990211951, 'Real Y': 1076, 'Predicted Y': 1063.4904324521206, 'Sum Squared Error Y': 156.48928023495847}
+person: 1
+{'Real X': 734, 'Predicted X': 734.9498835928332, 'Sum Squared Error X': 0.9022788399337137, 'Real Y': 1184, 'Predicted Y': 1191.3650935634014, 'Sum Squared Error Y': 54.24460319765655}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4176446919498, 'Sum Squared Error X': 2.0097164726134933, 'Real Y': 1234, 'Predicted Y': 1245.7145666947292, 'Sum Squared Error Y': 137.2310728452593}
+Sim: 1480
+person: 0
+{'Real X': 700, 'Predicted X': 698.8576579747667, 'Sum Squared Error X': 1.3049453026142253, 'Real Y': 1076, 'Predicted Y': 1062.9116973083765, 'Sum Squared Error Y': 171.30366734755998}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3727012380709, 'Sum Squared Error X': 1.884308689001467, 'Real Y': 1184, 'Predicted Y': 1191.1914904600717, 'Sum Squared Error Y': 51.71753503730214}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7528797628861, 'Sum Squared Error X': 3.072587463135615, 'Real Y': 1234, 'Predicted Y': 1245.4840457999512, 'Sum Squared Error Y': 131.88330793537722}
+Sim: 1490
+person: 0
+{'Real X': 700, 'Predicted X': 698.9335097316099, 'Sum Squared Error X': 1.137401492570813, 'Real Y': 1076, 'Predicted Y': 1062.784839699861, 'Sum Squared Error Y': 174.6404617583674}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2969831095002, 'Sum Squared Error X': 1.6821651863287064, 'Real Y': 1184, 'Predicted Y': 1191.067798058835, 'Sum Squared Error Y': 49.95376940047213}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5976186053847, 'Sum Squared Error X': 2.5523852082713407, 'Real Y': 1234, 'Predicted Y': 1245.7233292167211, 'Sum Squared Error Y': 137.4364479236275}
+Sim: 1500
+person: 0
+{'Real X': 700, 'Predicted X': 699.2145023568808, 'Sum Squared Error X': 0.6170065473458851, 'Real Y': 1076, 'Predicted Y': 1063.3718501778183, 'Sum Squared Error Y': 159.47016793146872}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1399911345711, 'Sum Squared Error X': 1.2995797869007468, 'Real Y': 1184, 'Predicted Y': 1190.6074331894174, 'Sum Squared Error Y': 43.65817335261468}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7453797177172, 'Sum Squared Error X': 3.046350359018719, 'Real Y': 1234, 'Predicted Y': 1246.3991222504105, 'Sum Squared Error Y': 153.73823258062544}
+Sim: 1510
+person: 0
+{'Real X': 700, 'Predicted X': 698.8922773834786, 'Sum Squared Error X': 1.2270493951530481, 'Real Y': 1076, 'Predicted Y': 1063.1583107825932, 'Sum Squared Error Y': 164.90898195646304}
+person: 1
+{'Real X': 734, 'Predicted X': 734.997481510511, 'Sum Squared Error X': 0.9949693638112375, 'Real Y': 1184, 'Predicted Y': 1191.6798456128993, 'Sum Squared Error Y': 58.98002863796818}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4318887043182, 'Sum Squared Error X': 2.0503052615541275, 'Real Y': 1234, 'Predicted Y': 1245.8543499466587, 'Sum Squared Error Y': 140.52561265784612}
+Sim: 1520
+person: 0
+{'Real X': 700, 'Predicted X': 699.2020287018765, 'Sum Squared Error X': 0.6367581926288352, 'Real Y': 1076, 'Predicted Y': 1063.2738776176961, 'Sum Squared Error Y': 161.95419088937518}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2182180740726, 'Sum Squared Error X': 1.4840552759972474, 'Real Y': 1184, 'Predicted Y': 1191.0267166897174, 'Sum Squared Error Y': 49.37474743755351}
+person: 2
+{'Real X': 733, 'Predicted X': 734.793845458227, 'Sum Squared Error X': 3.2178815280016244, 'Real Y': 1234, 'Predicted Y': 1246.9122564029994, 'Sum Squared Error Y': 166.7263654168002}
+Sim: 1530
+person: 0
+{'Real X': 700, 'Predicted X': 698.9773981566631, 'Sum Squared Error X': 1.0457145299960853, 'Real Y': 1076, 'Predicted Y': 1063.0864147731356, 'Sum Squared Error Y': 166.7606834114897}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0652497118689, 'Sum Squared Error X': 1.1347569486367468, 'Real Y': 1184, 'Predicted Y': 1191.148797490694, 'Sum Squared Error Y': 51.10530556295356}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7603622902259, 'Sum Squared Error X': 3.0988753928493225, 'Real Y': 1234, 'Predicted Y': 1246.1510564819682, 'Sum Squared Error Y': 147.64817362798203}
+Sim: 1540
+person: 0
+{'Real X': 700, 'Predicted X': 699.1626512956998, 'Sum Squared Error X': 0.701152852593243, 'Real Y': 1076, 'Predicted Y': 1063.7582977438003, 'Sum Squared Error Y': 149.85927412944451}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4111860177733, 'Sum Squared Error X': 1.9914459767587944, 'Real Y': 1184, 'Predicted Y': 1190.8709458591393, 'Sum Squared Error Y': 47.20989699922326}
+person: 2
+{'Real X': 733, 'Predicted X': 734.699412406614, 'Sum Squared Error X': 2.888002527753545, 'Real Y': 1234, 'Predicted Y': 1245.2275424736636, 'Sum Squared Error Y': 126.05770999791929}
+Sim: 1550
+person: 0
+{'Real X': 700, 'Predicted X': 698.972268975271, 'Sum Squared Error X': 1.056231059190419, 'Real Y': 1076, 'Predicted Y': 1063.299679324134, 'Sum Squared Error Y': 161.29814526982676}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2309921490337, 'Sum Squared Error X': 1.5153416709825627, 'Real Y': 1184, 'Predicted Y': 1190.7445569299557, 'Sum Squared Error Y': 45.489048181413544}
+person: 2
+{'Real X': 733, 'Predicted X': 734.3471243770018, 'Sum Squared Error X': 1.814744087112539, 'Real Y': 1234, 'Predicted Y': 1245.2439676404745, 'Sum Squared Error Y': 126.42680830003692}
+Sim: 1560
+person: 0
+{'Real X': 700, 'Predicted X': 698.9301908734017, 'Sum Squared Error X': 1.1444915673530804, 'Real Y': 1076, 'Predicted Y': 1063.492301946837, 'Sum Squared Error Y': 156.4425105890985}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1250140749407, 'Sum Squared Error X': 1.265656668814761, 'Real Y': 1184, 'Predicted Y': 1190.9016289199049, 'Sum Squared Error Y': 47.63248174806701}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5362390503251, 'Sum Squared Error X': 2.360030419743745, 'Real Y': 1234, 'Predicted Y': 1246.7038487312507, 'Sum Squared Error Y': 161.38777258649935}
+Sim: 1570
+person: 0
+{'Real X': 700, 'Predicted X': 698.8008973364106, 'Sum Squared Error X': 1.4378471978272624, 'Real Y': 1076, 'Predicted Y': 1063.2134806204117, 'Sum Squared Error Y': 163.49507784458714}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3891575629802, 'Sum Squared Error X': 1.9297587347852123, 'Real Y': 1184, 'Predicted Y': 1190.9771565615788, 'Sum Squared Error Y': 48.680713684782035}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6222351518337, 'Sum Squared Error X': 2.631646887844928, 'Real Y': 1234, 'Predicted Y': 1245.30554209705, 'Sum Squared Error Y': 127.81528210816893}
+Sim: 1580
+person: 0
+{'Real X': 700, 'Predicted X': 698.9578810409404, 'Sum Squared Error X': 1.0860119248315088, 'Real Y': 1076, 'Predicted Y': 1063.0548077161116, 'Sum Squared Error Y': 167.57800326684495}
+person: 1
+{'Real X': 734, 'Predicted X': 735.5015792814311, 'Sum Squared Error X': 2.25474033842307, 'Real Y': 1184, 'Predicted Y': 1190.7718958650485, 'Sum Squared Error Y': 45.85857360706048}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6418156718901, 'Sum Squared Error X': 2.695558700463848, 'Real Y': 1234, 'Predicted Y': 1245.5296713918085, 'Sum Squared Error Y': 132.9333224030875}
+Sim: 1590
+person: 0
+{'Real X': 700, 'Predicted X': 698.7344691170312, 'Sum Squared Error X': 1.6015684157479084, 'Real Y': 1076, 'Predicted Y': 1062.9993972308578, 'Sum Squared Error Y': 169.0156723610287}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4623803843954, 'Sum Squared Error X': 2.138556388664361, 'Real Y': 1184, 'Predicted Y': 1191.0799012039788, 'Sum Squared Error Y': 50.12500105810056}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6080399961646, 'Sum Squared Error X': 2.5857926292651134, 'Real Y': 1234, 'Predicted Y': 1246.3910258241995, 'Sum Squared Error Y': 153.5375209759779}
+Sim: 1600
+person: 0
+{'Real X': 700, 'Predicted X': 699.0076227231473, 'Sum Squared Error X': 0.984812659613623, 'Real Y': 1076, 'Predicted Y': 1063.277738565358, 'Sum Squared Error Y': 161.85593601137785}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8645754669058, 'Sum Squared Error X': 0.747490737975317, 'Real Y': 1184, 'Predicted Y': 1191.44717832268, 'Sum Squared Error Y': 55.460464969794515}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5952162648475, 'Sum Squared Error X': 2.5447149316340805, 'Real Y': 1234, 'Predicted Y': 1245.5980550805189, 'Sum Squared Error Y': 134.51488165074937}
+Sim: 1610
+person: 0
+{'Real X': 700, 'Predicted X': 698.8459542078967, 'Sum Squared Error X': 1.3318216902712436, 'Real Y': 1076, 'Predicted Y': 1063.9021098708313, 'Sum Squared Error Y': 146.3589455774379}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1513367507675, 'Sum Squared Error X': 1.3255763136679592, 'Real Y': 1184, 'Predicted Y': 1190.8562208276644, 'Sum Squared Error Y': 47.00776403769913}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8335991191574, 'Sum Squared Error X': 3.3620857297747344, 'Real Y': 1234, 'Predicted Y': 1245.6578172681498, 'Sum Squared Error Y': 135.90470345757063}
+Sim: 1620
+person: 0
+{'Real X': 700, 'Predicted X': 698.5257836138943, 'Sum Squared Error X': 2.1733139530625363, 'Real Y': 1076, 'Predicted Y': 1062.8562846471111, 'Sum Squared Error Y': 172.75725327776675}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8730213807561, 'Sum Squared Error X': 0.7621663312572625, 'Real Y': 1184, 'Predicted Y': 1191.3375509529092, 'Sum Squared Error Y': 53.83965398653825}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5252901735556, 'Sum Squared Error X': 2.326510113545327, 'Real Y': 1234, 'Predicted Y': 1246.4642195949264, 'Sum Squared Error Y': 155.35677011054628}
+Sim: 1630
+person: 0
+{'Real X': 700, 'Predicted X': 698.8718988751564, 'Sum Squared Error X': 1.2726121478734504, 'Real Y': 1076, 'Predicted Y': 1062.8241470393857, 'Sum Squared Error Y': 173.60310123972843}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2313984061504, 'Sum Squared Error X': 1.5163420346698613, 'Real Y': 1184, 'Predicted Y': 1190.8969119782419, 'Sum Squared Error Y': 47.56739483561605}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1437331459817, 'Sum Squared Error X': 4.595591801180775, 'Real Y': 1234, 'Predicted Y': 1246.340572164469, 'Sum Squared Error Y': 152.28972134646696}
+Sim: 1640
+person: 0
+{'Real X': 700, 'Predicted X': 698.9326011791793, 'Sum Squared Error X': 1.1393402426894192, 'Real Y': 1076, 'Predicted Y': 1063.271607970928, 'Sum Squared Error Y': 162.0119636457432}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0665431767613, 'Sum Squared Error X': 1.1375143478961767, 'Real Y': 1184, 'Predicted Y': 1191.1425413956063, 'Sum Squared Error Y': 51.015897587949}
+person: 2
+{'Real X': 733, 'Predicted X': 735.179231494242, 'Sum Squared Error X': 4.749049905496235, 'Real Y': 1234, 'Predicted Y': 1245.6767970620401, 'Sum Squared Error Y': 136.34758962806885}
+Sim: 1650
+person: 0
+{'Real X': 700, 'Predicted X': 699.1879471472672, 'Sum Squared Error X': 0.6594298356314633, 'Real Y': 1076, 'Predicted Y': 1063.0090193058186, 'Sum Squared Error Y': 168.7655793965943}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0335427558297, 'Sum Squared Error X': 1.068210628127992, 'Real Y': 1184, 'Predicted Y': 1191.618064894084, 'Sum Squared Error Y': 58.03491273047507}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8794644090146, 'Sum Squared Error X': 3.532386464752768, 'Real Y': 1234, 'Predicted Y': 1245.6995170202013, 'Sum Squared Error Y': 136.8786985059789}
+Sim: 1660
+person: 0
+{'Real X': 700, 'Predicted X': 698.9338395575031, 'Sum Squared Error X': 1.136698089145143, 'Real Y': 1076, 'Predicted Y': 1063.1374392340306, 'Sum Squared Error Y': 165.44546945825581}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0282986532537, 'Sum Squared Error X': 1.0573981202834306, 'Real Y': 1184, 'Predicted Y': 1190.4037440101104, 'Sum Squared Error Y': 41.007937347024296}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4416622418751, 'Sum Squared Error X': 2.078390019648238, 'Real Y': 1234, 'Predicted Y': 1246.165423267246, 'Sum Squared Error Y': 147.99752327125202}
+Sim: 1670
+person: 0
+{'Real X': 700, 'Predicted X': 698.8464612755367, 'Sum Squared Error X': 1.3306515888363253, 'Real Y': 1076, 'Predicted Y': 1063.0496531847314, 'Sum Squared Error Y': 167.71148263573838}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1944982131347, 'Sum Squared Error X': 1.4268259811819752, 'Real Y': 1184, 'Predicted Y': 1190.91520231488, 'Sum Squared Error Y': 47.8200230557208}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4900878829224, 'Sum Squared Error X': 2.22036189883202, 'Real Y': 1234, 'Predicted Y': 1245.7751422926337, 'Sum Squared Error Y': 138.6539760117719}
+Sim: 1680
+person: 0
+{'Real X': 700, 'Predicted X': 698.8757883739521, 'Sum Squared Error X': 1.2638517801412525, 'Real Y': 1076, 'Predicted Y': 1063.0242296736478, 'Sum Squared Error Y': 168.37061556224165}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0683630564923, 'Sum Squared Error X': 1.1413996204776347, 'Real Y': 1184, 'Predicted Y': 1190.8664348267944, 'Sum Squared Error Y': 47.1479272306147}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8226484390273, 'Sum Squared Error X': 3.3220473322885136, 'Real Y': 1234, 'Predicted Y': 1245.7396172043968, 'Sum Squared Error Y': 137.8186121057702}
+Sim: 1690
+person: 0
+{'Real X': 700, 'Predicted X': 699.1769704215258, 'Sum Squared Error X': 0.6773776870434751, 'Real Y': 1076, 'Predicted Y': 1063.4406434717926, 'Sum Squared Error Y': 157.73743640262697}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0196915083518, 'Sum Squared Error X': 1.0397707722047647, 'Real Y': 1184, 'Predicted Y': 1191.1136758528678, 'Sum Squared Error Y': 50.60438413967442}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9324289252586, 'Sum Squared Error X': 3.7342815511760743, 'Real Y': 1234, 'Predicted Y': 1245.5312653960623, 'Sum Squared Error Y': 132.9700816344234}
+Sim: 1700
+person: 0
+{'Real X': 700, 'Predicted X': 698.8606284648762, 'Sum Squared Error X': 1.2981674950503972, 'Real Y': 1076, 'Predicted Y': 1063.1251013592246, 'Sum Squared Error Y': 165.76301501024093}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0385598178789, 'Sum Squared Error X': 1.0786064953126058, 'Real Y': 1184, 'Predicted Y': 1191.4139312291277, 'Sum Squared Error Y': 54.966376270234726}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9065104567319, 'Sum Squared Error X': 3.634782121628055, 'Real Y': 1234, 'Predicted Y': 1245.6916189938647, 'Sum Squared Error Y': 136.69395469769833}
+Sim: 1710
+person: 0
+{'Real X': 700, 'Predicted X': 698.9070973824012, 'Sum Squared Error X': 1.1944361315543925, 'Real Y': 1076, 'Predicted Y': 1063.2412150377086, 'Sum Squared Error Y': 162.7865937139939}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0146982945637, 'Sum Squared Error X': 1.0296126289904537, 'Real Y': 1184, 'Predicted Y': 1190.6713030556723, 'Sum Squared Error Y': 44.506284460622524}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7422514700243, 'Sum Squared Error X': 3.0354401848016854, 'Real Y': 1234, 'Predicted Y': 1245.2848994216906, 'Sum Squared Error Y': 127.3489549576734}
+Sim: 1720
+person: 0
+{'Real X': 700, 'Predicted X': 699.0556320755566, 'Sum Squared Error X': 0.891830776717612, 'Real Y': 1076, 'Predicted Y': 1062.8838729407194, 'Sum Squared Error Y': 172.0327890351939}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8822827911432, 'Sum Squared Error X': 0.7784229235474556, 'Real Y': 1184, 'Predicted Y': 1190.5344495624404, 'Sum Squared Error Y': 42.699031084077355}
+person: 2
+{'Real X': 733, 'Predicted X': 735.1859110835984, 'Sum Squared Error X': 4.778207265398324, 'Real Y': 1234, 'Predicted Y': 1246.2622444607616, 'Sum Squared Error Y': 150.36263921547908}
+Sim: 1730
+person: 0
+{'Real X': 700, 'Predicted X': 698.743883473242, 'Sum Squared Error X': 1.5778287287945263, 'Real Y': 1076, 'Predicted Y': 1063.191588782734, 'Sum Squared Error Y': 164.0553979105851}
+person: 1
+{'Real X': 734, 'Predicted X': 735.020959530088, 'Sum Squared Error X': 1.0423583620775527, 'Real Y': 1184, 'Predicted Y': 1191.131018945867, 'Sum Squared Error Y': 50.85143120631448}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9628059853691, 'Sum Squared Error X': 3.8526073362006574, 'Real Y': 1234, 'Predicted Y': 1246.4473918938663, 'Sum Squared Error Y': 154.9375649594891}
+Sim: 1740
+person: 0
+{'Real X': 700, 'Predicted X': 698.4408620192746, 'Sum Squared Error X': 2.4309112429404203, 'Real Y': 1076, 'Predicted Y': 1063.4586787915655, 'Sum Squared Error Y': 157.28473765312924}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0670987618993, 'Sum Squared Error X': 1.1386997676469635, 'Real Y': 1184, 'Predicted Y': 1190.0360324413866, 'Sum Squared Error Y': 36.43368763347176}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7278174021305, 'Sum Squared Error X': 2.9853529751051293, 'Real Y': 1234, 'Predicted Y': 1246.918916963306, 'Sum Squared Error Y': 166.89841550479414}
+Sim: 1750
+person: 0
+{'Real X': 700, 'Predicted X': 698.6992695904387, 'Sum Squared Error X': 1.6918995983575353, 'Real Y': 1076, 'Predicted Y': 1063.2025042241853, 'Sum Squared Error Y': 163.77589813199498}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2197801638293, 'Sum Squared Error X': 1.4878636480715346, 'Real Y': 1184, 'Predicted Y': 1191.0137080321883, 'Sum Squared Error Y': 49.192100360783144}
+person: 2
+{'Real X': 733, 'Predicted X': 734.579796052318, 'Sum Squared Error X': 2.4957555669194997, 'Real Y': 1234, 'Predicted Y': 1246.1329179286913, 'Sum Squared Error Y': 147.20769746435911}
+Sim: 1760
+person: 0
+{'Real X': 700, 'Predicted X': 699.078451096934, 'Sum Squared Error X': 0.8492523807420894, 'Real Y': 1076, 'Predicted Y': 1063.6402705246624, 'Sum Squared Error Y': 152.76291270353016}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0541126183228, 'Sum Squared Error X': 1.1111534121074482, 'Real Y': 1184, 'Predicted Y': 1190.7157117392999, 'Sum Squared Error Y': 45.10078416537018}
+person: 2
+{'Real X': 733, 'Predicted X': 734.276019625722, 'Sum Squared Error X': 1.6282260852277861, 'Real Y': 1234, 'Predicted Y': 1245.4800113426668, 'Sum Squared Error Y': 131.79066042775804}
+Sim: 1770
+person: 0
+{'Real X': 700, 'Predicted X': 699.0667738009707, 'Sum Squared Error X': 0.8709111385546068, 'Real Y': 1076, 'Predicted Y': 1063.0841731193748, 'Sum Squared Error Y': 166.81858401028094}
+person: 1
+{'Real X': 734, 'Predicted X': 734.678091263577, 'Sum Squared Error X': 0.4598077617394748, 'Real Y': 1184, 'Predicted Y': 1189.8271688550612, 'Sum Squared Error Y': 33.955896865395786}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4383800278772, 'Sum Squared Error X': 2.0689371045960185, 'Real Y': 1234, 'Predicted Y': 1246.870808409294, 'Sum Squared Error Y': 165.65770910875608}
+Sim: 1780
+person: 0
+{'Real X': 700, 'Predicted X': 698.6752631573675, 'Sum Squared Error X': 1.7549277022280483, 'Real Y': 1076, 'Predicted Y': 1062.7005191158873, 'Sum Squared Error Y': 176.8761917868779}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2076273069929, 'Sum Squared Error X': 1.4583637125949003, 'Real Y': 1184, 'Predicted Y': 1191.430706166631, 'Sum Squared Error Y': 55.21539413480646}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5465228660278, 'Sum Squared Error X': 2.391732975146753, 'Real Y': 1234, 'Predicted Y': 1246.4024567490692, 'Sum Squared Error Y': 153.82093341253184}
+Sim: 1790
+person: 0
+{'Real X': 700, 'Predicted X': 698.9346354217712, 'Sum Squared Error X': 1.1350016845446491, 'Real Y': 1076, 'Predicted Y': 1063.010543850523, 'Sum Squared Error Y': 168.72597105918751}
+person: 1
+{'Real X': 734, 'Predicted X': 735.4041030725963, 'Sum Squared Error X': 1.9715054384743298, 'Real Y': 1184, 'Predicted Y': 1190.9999020306145, 'Sum Squared Error Y': 48.998628438201294}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6074356012186, 'Sum Squared Error X': 2.5838492120651306, 'Real Y': 1234, 'Predicted Y': 1246.224054024711, 'Sum Squared Error Y': 149.42749679905307}
+Sim: 1800
+person: 0
+{'Real X': 700, 'Predicted X': 698.8403986368052, 'Sum Squared Error X': 1.3446753215233267, 'Real Y': 1076, 'Predicted Y': 1063.3818476197864, 'Sum Squared Error Y': 159.2177694902898}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1543623811172, 'Sum Squared Error X': 1.3325525069384627, 'Real Y': 1184, 'Predicted Y': 1190.6531070267847, 'Sum Squared Error Y': 44.26383310985208}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8045030372158, 'Sum Squared Error X': 3.25623121132103, 'Real Y': 1234, 'Predicted Y': 1246.6222130556444, 'Sum Squared Error Y': 159.3202624220787}
+Sim: 1810
+person: 0
+{'Real X': 700, 'Predicted X': 698.8569387605753, 'Sum Squared Error X': 1.306588997075123, 'Real Y': 1076, 'Predicted Y': 1063.1349069127039, 'Sum Squared Error Y': 165.51062014479507}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1178801745939, 'Sum Squared Error X': 1.249656084750072, 'Real Y': 1184, 'Predicted Y': 1190.7405672817554, 'Sum Squared Error Y': 45.43524727987104}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4086616161678, 'Sum Squared Error X': 1.9843275488645329, 'Real Y': 1234, 'Predicted Y': 1246.317492723092, 'Sum Squared Error Y': 151.72062698342617}
+Sim: 1820
+person: 0
+{'Real X': 700, 'Predicted X': 698.9724214988164, 'Sum Squared Error X': 1.0559175760947295, 'Real Y': 1076, 'Predicted Y': 1063.8288252475809, 'Sum Squared Error Y': 148.1374948539246}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8769200314556, 'Sum Squared Error X': 0.7689887415680859, 'Real Y': 1184, 'Predicted Y': 1190.227018783305, 'Sum Squared Error Y': 38.77576292763433}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6680076468167, 'Sum Squared Error X': 2.7822495098389997, 'Real Y': 1234, 'Predicted Y': 1246.1044822791678, 'Sum Squared Error Y': 146.51849124668655}
+Sim: 1830
+person: 0
+{'Real X': 700, 'Predicted X': 698.6277632490118, 'Sum Squared Error X': 1.8830337007627502, 'Real Y': 1076, 'Predicted Y': 1063.4203129979555, 'Sum Squared Error Y': 158.24852506940647}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1851926163442, 'Sum Squared Error X': 1.4046815378369015, 'Real Y': 1184, 'Predicted Y': 1191.0216544245957, 'Sum Squared Error Y': 49.30363085844411}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5951258112225, 'Sum Squared Error X': 2.5444263536281997, 'Real Y': 1234, 'Predicted Y': 1246.4363269873625, 'Sum Squared Error Y': 154.66222893659992}
+Sim: 1840
+person: 0
+{'Real X': 700, 'Predicted X': 699.0162905759261, 'Sum Squared Error X': 0.9676842310118752, 'Real Y': 1076, 'Predicted Y': 1063.0629036047312, 'Sum Squared Error Y': 167.3684631404765}
+person: 1
+{'Real X': 734, 'Predicted X': 734.707782612827, 'Sum Squared Error X': 0.5009562270202599, 'Real Y': 1184, 'Predicted Y': 1191.1266658201948, 'Sum Squared Error Y': 50.78936571273325}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4308352987061, 'Sum Squared Error X': 2.047289652023496, 'Real Y': 1234, 'Predicted Y': 1246.1968740849097, 'Sum Squared Error Y': 148.7637374431424}
+Sim: 1850
+person: 0
+{'Real X': 700, 'Predicted X': 699.3371281736968, 'Sum Squared Error X': 0.4393990581065622, 'Real Y': 1076, 'Predicted Y': 1063.0645108206045, 'Sum Squared Error Y': 167.32688031025853}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0337758556798, 'Sum Squared Error X': 1.0686925197864572, 'Real Y': 1184, 'Predicted Y': 1190.8235897117686, 'Sum Squared Error Y': 46.56137655455416}
+person: 2
+{'Real X': 733, 'Predicted X': 734.2221609834576, 'Sum Squared Error X': 1.4936774694859751, 'Real Y': 1234, 'Predicted Y': 1245.2387994114906, 'Sum Squared Error Y': 126.31061221172186}
+Sim: 1860
+person: 0
+{'Real X': 700, 'Predicted X': 698.6950226814758, 'Sum Squared Error X': 1.702965801862486, 'Real Y': 1076, 'Predicted Y': 1062.6739233875098, 'Sum Squared Error Y': 177.58431788195747}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0273509810805, 'Sum Squared Error X': 1.0554500383271292, 'Real Y': 1184, 'Predicted Y': 1190.5020286861, 'Sum Squared Error Y': 42.27637703486661}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5529494558077, 'Sum Squared Error X': 2.411652012293495, 'Real Y': 1234, 'Predicted Y': 1245.919186778472, 'Sum Squared Error Y': 142.06701346010334}
+Sim: 1870
+person: 0
+{'Real X': 700, 'Predicted X': 699.2174969702726, 'Sum Squared Error X': 0.6123109915325954, 'Real Y': 1076, 'Predicted Y': 1062.9812867125625, 'Sum Squared Error Y': 169.486895660503}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1215903988978, 'Sum Squared Error X': 1.2579650228996175, 'Real Y': 1184, 'Predicted Y': 1191.3076011485098, 'Sum Squared Error Y': 53.401034545701386}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6664572095428, 'Sum Squared Error X': 2.7770796312373127, 'Real Y': 1234, 'Predicted Y': 1246.0979531795476, 'Sum Squared Error Y': 146.36047113452662}
+Sim: 1880
+person: 0
+{'Real X': 700, 'Predicted X': 699.0885383891743, 'Sum Squared Error X': 0.8307622680088962, 'Real Y': 1076, 'Predicted Y': 1062.783921492076, 'Sum Squared Error Y': 174.66473112761244}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0370113300137, 'Sum Squared Error X': 1.0753924985767491, 'Real Y': 1184, 'Predicted Y': 1190.0811779877363, 'Sum Squared Error Y': 36.9807257185283}
+person: 2
+{'Real X': 733, 'Predicted X': 734.8599322092724, 'Sum Squared Error X': 3.459347823088967, 'Real Y': 1234, 'Predicted Y': 1245.6500616073504, 'Sum Squared Error Y': 135.72393545505935}
+Sim: 1890
+person: 0
+{'Real X': 700, 'Predicted X': 698.6341138032374, 'Sum Squared Error X': 1.8656451025066842, 'Real Y': 1076, 'Predicted Y': 1062.6551513644708, 'Sum Squared Error Y': 178.0849851051845}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0629359555437, 'Sum Squared Error X': 1.129832845587615, 'Real Y': 1184, 'Predicted Y': 1190.7010521736981, 'Sum Squared Error Y': 44.90410023462463}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5787308973654, 'Sum Squared Error X': 2.4923912462961724, 'Real Y': 1234, 'Predicted Y': 1245.805209621043, 'Sum Squared Error Y': 139.36297419676868}
+Sim: 1900
+person: 0
+{'Real X': 700, 'Predicted X': 698.9576203781173, 'Sum Squared Error X': 1.0865552761162658, 'Real Y': 1076, 'Predicted Y': 1062.6814038024736, 'Sum Squared Error Y': 177.38500467276478}
+person: 1
+{'Real X': 734, 'Predicted X': 734.8160623146671, 'Sum Squared Error X': 0.6659577014197902, 'Real Y': 1184, 'Predicted Y': 1191.040021306777, 'Sum Squared Error Y': 49.561899999872836}
+person: 2
+{'Real X': 733, 'Predicted X': 734.9766679621713, 'Sum Squared Error X': 3.9072162326744047, 'Real Y': 1234, 'Predicted Y': 1245.6844722893834, 'Sum Squared Error Y': 136.5268926813684}
+Sim: 1910
+person: 0
+{'Real X': 700, 'Predicted X': 699.2814768305428, 'Sum Squared Error X': 0.5162755450467787, 'Real Y': 1076, 'Predicted Y': 1063.1309233281954, 'Sum Squared Error Y': 165.6131343847848}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1637006374526, 'Sum Squared Error X': 1.3541991736076362, 'Real Y': 1184, 'Predicted Y': 1190.9990852468213, 'Sum Squared Error Y': 48.98719429227191}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7052756570524, 'Sum Squared Error X': 2.9079650665355805, 'Real Y': 1234, 'Predicted Y': 1245.8441546769832, 'Sum Squared Error Y': 140.28400001230256}
+Sim: 1920
+person: 0
+{'Real X': 700, 'Predicted X': 699.0647251337681, 'Sum Squared Error X': 0.874739075405112, 'Real Y': 1076, 'Predicted Y': 1063.5344590484237, 'Sum Squared Error Y': 155.38971121542474}
+person: 1
+{'Real X': 734, 'Predicted X': 735.3448903745364, 'Sum Squared Error X': 1.8087301195205567, 'Real Y': 1184, 'Predicted Y': 1191.1669678852063, 'Sum Squared Error Y': 51.36542866757853}
+person: 2
+{'Real X': 733, 'Predicted X': 734.3904715452638, 'Sum Squared Error X': 1.933411118188399, 'Real Y': 1234, 'Predicted Y': 1245.4290787960454, 'Sum Squared Error Y': 130.62384212621365}
+Sim: 1930
+person: 0
+{'Real X': 700, 'Predicted X': 699.0991004624393, 'Sum Squared Error X': 0.8116199767770652, 'Real Y': 1076, 'Predicted Y': 1063.527434132273, 'Sum Squared Error Y': 155.56489932479104}
+person: 1
+{'Real X': 734, 'Predicted X': 734.958450048037, 'Sum Squared Error X': 0.9186264945820888, 'Real Y': 1184, 'Predicted Y': 1190.9054295052565, 'Sum Squared Error Y': 47.68495665206712}
+person: 2
+{'Real X': 733, 'Predicted X': 734.594143933169, 'Sum Squared Error X': 2.5412948796595085, 'Real Y': 1234, 'Predicted Y': 1246.0090649304789, 'Sum Squared Error Y': 144.2176405044575}
+Sim: 1940
+person: 0
+{'Real X': 700, 'Predicted X': 698.9071247993386, 'Sum Squared Error X': 1.194376204220718, 'Real Y': 1076, 'Predicted Y': 1063.7640422921947, 'Sum Squared Error Y': 149.71866102719883}
+person: 1
+{'Real X': 734, 'Predicted X': 735.2105046741945, 'Sum Squared Error X': 1.4653215662466197, 'Real Y': 1184, 'Predicted Y': 1191.4274700681149, 'Sum Squared Error Y': 55.16731161274233}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6713899483207, 'Sum Squared Error X': 2.793544359347359, 'Real Y': 1234, 'Predicted Y': 1245.2146748385862, 'Sum Squared Error Y': 125.76893173521917}
+Sim: 1950
+person: 0
+{'Real X': 700, 'Predicted X': 698.8208651920186, 'Sum Squared Error X': 1.3903588953933967, 'Real Y': 1076, 'Predicted Y': 1063.3033784784182, 'Sum Squared Error Y': 161.20419806229532}
+person: 1
+{'Real X': 734, 'Predicted X': 734.6827253006613, 'Sum Squared Error X': 0.466113836163106, 'Real Y': 1184, 'Predicted Y': 1190.5175581271426, 'Sum Squared Error Y': 42.47856394068246}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5230654253112, 'Sum Squared Error X': 2.3197282897783498, 'Real Y': 1234, 'Predicted Y': 1245.238908089586, 'Sum Squared Error Y': 126.31305504616046}
+Sim: 1960
+person: 0
+{'Real X': 700, 'Predicted X': 698.9024285119306, 'Sum Squared Error X': 1.2046631714229519, 'Real Y': 1076, 'Predicted Y': 1063.3550041351305, 'Sum Squared Error Y': 159.89592042256783}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0367738626196, 'Sum Squared Error X': 1.074900042211189, 'Real Y': 1184, 'Predicted Y': 1191.0818131880592, 'Sum Squared Error Y': 50.152078030569015}
+person: 2
+{'Real X': 733, 'Predicted X': 734.4427913725436, 'Sum Squared Error X': 2.081646944686356, 'Real Y': 1234, 'Predicted Y': 1246.3644927218475, 'Sum Squared Error Y': 152.88068026861868}
+Sim: 1970
+person: 0
+{'Real X': 700, 'Predicted X': 698.6767856034767, 'Sum Squared Error X': 1.7508963391665906, 'Real Y': 1076, 'Predicted Y': 1063.6005840947341, 'Sum Squared Error Y': 153.7455147917602}
+person: 1
+{'Real X': 734, 'Predicted X': 735.1383463529139, 'Sum Squared Error X': 1.2958324191924082, 'Real Y': 1184, 'Predicted Y': 1191.618177596315, 'Sum Squared Error Y': 58.03662988899634}
+person: 2
+{'Real X': 733, 'Predicted X': 734.5002202944703, 'Sum Squared Error X': 2.250660931940541, 'Real Y': 1234, 'Predicted Y': 1246.1900321860671, 'Sum Squared Error Y': 148.59688469735252}
+Sim: 1980
+person: 0
+{'Real X': 700, 'Predicted X': 699.0229395296367, 'Sum Squared Error X': 0.9546471627465776, 'Real Y': 1076, 'Predicted Y': 1063.7152451139714, 'Sum Squared Error Y': 150.9152026098041}
+person: 1
+{'Real X': 734, 'Predicted X': 735.0355857003578, 'Sum Squared Error X': 1.0724377427856424, 'Real Y': 1184, 'Predicted Y': 1190.8552507440895, 'Sum Squared Error Y': 46.99446276433988}
+person: 2
+{'Real X': 733, 'Predicted X': 734.6644220930377, 'Sum Squared Error X': 2.770300903792094, 'Real Y': 1234, 'Predicted Y': 1246.3213576225503, 'Sum Squared Error Y': 151.81585366277824}
+Sim: 1990
+person: 0
+{'Real X': 700, 'Predicted X': 699.1640279356254, 'Sum Squared Error X': 0.6988492924146855, 'Real Y': 1076, 'Predicted Y': 1063.369059447377, 'Sum Squared Error Y': 159.54065924389843}
+person: 1
+{'Real X': 734, 'Predicted X': 735.184769059879, 'Sum Squared Error X': 1.4036777252466761, 'Real Y': 1184, 'Predicted Y': 1191.039271138099, 'Sum Squared Error Y': 49.55133815567234}
+person: 2
+{'Real X': 733, 'Predicted X': 734.7038264851296, 'Sum Squared Error X': 2.90302469142922, 'Real Y': 1234, 'Predicted Y': 1245.8315667089641, 'Sum Squared Error Y': 139.98597078866868}
