@@ -11,8 +11,6 @@ def apply_mask(image, mask, color, alpha=0.5):
         )
     return image
 
-# based on https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/visualize.py
-# and https://github.com/markjay4k/Mask-RCNN-series/blob/887404d990695a7bf7f180e3ffaee939fbd9a1cf/visualize_cv.py
 def display_instances(image, boxes, masks, class_ids, class_names, scores=None):
     assert boxes.shape[0] == masks.shape[-1] == class_ids.shape[0]
     
